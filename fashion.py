@@ -42,6 +42,6 @@ with open("base_fashion.pl", "w", encoding="utf-8") as f: # se nao existir o arq
         year_of_sale = int(row["year_of_sale"])
 
         line = (
-            f"peca({product_id}, {product_name}, {category}, {pattern}, {season}, {sales_count}, {average_rating}, {out_of_stock_times}, {wish_list_count}, {year_of_sale}).\n"
+            f"peca({product_id}, {product_name}, {category}, {pattern}, {season}, {sales_count}, {average_rating}, {wish_list_count}, {year_of_sale}).\n"
         )
         f.write(line)
