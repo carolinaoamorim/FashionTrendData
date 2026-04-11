@@ -8,10 +8,12 @@
 
 % 2) Em qual ano os biker shorts foram tendência? -> com o maior sales_count
 
-?- tendencia_bikershorts(ID, Sales, Year).
+?- bikershorts_venda(Year, Sales)
+?- sales_bikershorts(Sales, Total).
 ?- ano_bikershorts(Resultado).
 
 % 3) Qual foi o melhor produto do inverno? -> com o avarage rating
 
-?- produto_inverno(ID, Nome, Category, Rating).
+?- inverno_rating(Category, AvarageRating)
+?- media_rating(Category, Media).
 ?- melhor_inverno(Resultado).
