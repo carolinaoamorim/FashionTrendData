@@ -1,19 +1,24 @@
 % arquivo com os programas
 
 
-% 1) Qual estampa é a favorita para a primavera?
+% 1) Qual estampa é a favorita para a primavera? -> Qual estampa teve a maior soma de wishlist count na spring
 
-peca_primavera(ID, Nome, Pattern, Wish) :-
-    peca(ID, Nome, _, Pattern, spring, _, _, _, Wish, _).
+peca_primavera(Pattern, Wish) :-
+    peca(_, _, _, Pattern, spring, _, _, _, Wish, _).
 
-favorita_primavera(Wish-Pattern-Nome) :-
-    setof(W-P-N,
-            ID^Category^Sales^Rating^Out^Year^
-            peca(ID, N, Category, P, spring, Sales, Rating, Out, W, Year),
+wishlist_total_primavera(Pattern, Total) :-
+    findall(Wish,
+            peca(_, _, _, Pattern, spring, _, _, _, Wish, _),
             Lista),
-    last(Lista, Wish-Pattern-Nome).
+    sum_list(Lista, Total).
 
-% 2) Em qual ano os biker shorts foram tendência? 
+favorita_primavera(Total-Pattern) :-
+    setof(T-P,
+            wishlist_total_primavera(P-T)
+            Lista),
+    last(Lista, Total-Pattern).
+
+% 2) Em qual ano os biker shorts foram tendência? -> Qual ano os biker_shorts tiveram a maior soma de sales_count
 
 tendencia_bikershorts(ID, Nome, Sales, Year) :-
     peca(ID, biker_shorts, _, _, _, Sales, _, _, _, Year).
@@ -26,7 +31,7 @@ ano_bikershorts(Sales-Year) :-
     last(Lista, Sales-Year).
 
 
-% 3) Qual foi o melhor produto do inverno?
+% 3) Qual foi o melhor produto do inverno? -> Qual categoria teve a maior media de avarage rating no inverno
 
 produto_inverno(ID, Nome, Category, Rating) :-
     peca(ID, Nome, Category, _, winter, _, Rating, _, _, _).

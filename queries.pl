@@ -2,7 +2,8 @@
 
 % 1) Qual estampa é a favorita para a primavera? -> com o maior wish_list_count
 
-?- peca_primavera(ID, Nome, Pattern, Wish).
+?- peca_primavera(Pattern, Wish).
+?- wishlist_total_primavera(Pattern, Total)
 ?- favorita_primavera(Resultado).
 
 % 2) Em qual ano os biker shorts foram tendência? -> com o maior sales_count
