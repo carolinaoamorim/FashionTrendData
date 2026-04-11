@@ -17,7 +17,7 @@ COLUNAS = [
     "year_of_sale"
 ]
 
-# filtra o dataset para as 10 colunas -> escolhi oque eu acho que vai ser mais interessante para as perguntas
+# filtra o dataset para as 9 colunas -> escolhi oque eu acho que vai ser mais interessante para as perguntas
 df_filtered = df[COLUNAS].copy()
 
 # "normalizar" e padronizar as tabelas para o prolog conseguir ler
