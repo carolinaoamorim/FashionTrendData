@@ -1,6 +1,5 @@
 % arquivo com os programas
 
-
 % 1) Qual estampa é a favorita para a primavera? -> Qual estampa teve a maior soma de wishlist count na spring
 
 peca_primavera(Pattern, Wish) :-
