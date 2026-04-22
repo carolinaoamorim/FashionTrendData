@@ -1,5 +1,39 @@
 # Análise de Tendências - (Fashion Dataset 2018-2022)
 
+## Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de analisar um conjunto de dados de moda usando **Python** e **Prolog** e analisar tendências com base na quantidade de produtos vendido, avaliação média e quantidade em wish lists. Com isso foi possível analisar padrões de compras - como tipo de produto, estampa e categoria - baseado no ano e estação.
+
+A proposta principal foi transformar dados de um arquivo `.csv` em uma **base de conhecimento lógica**, para que fosse possível fazer consultas e conclusões sobre tendências de moda.
+
+O projeto funciona em duas etapas:
+
+1. **Tratamento dos dados em Python**  
+
+   O arquivo CSV (base de dados original) é lido, filtrado e normalizado para gerar fatos no formato aceito pelo Prolog.
+
+2. **Análise em Prolog**  
+
+   A base nova gerada na etapa anterior é usada para criar regras lógicas e responder perguntas sobre padrões de moda, tendências de vendas, popularidade e avaliações.
+
+---
+
+## O que o código faz
+
+A partir do dataset original, o código:
+
+- seleciona apenas as colunas selecionadas (as mais relevantes para as análises)
+
+- padroniza os dados textuais para o formato do Prolog
+
+- gera uma base de fatos com informações sobre peças
+
+- cria regras para analisar padrões no dataset
+
+- responde perguntas sobre tendências de moda
+
+---
+
 ## Perguntas 
 
 1. **Qual estampa é a favorita para a primavera?**  
@@ -31,7 +65,7 @@
 ```
 ---
 
-## Sobre o desenvolvimento do projeto
+## Desenvolvimento do projeto
 
 ### Seleção dos dados
 
