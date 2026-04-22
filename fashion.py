@@ -20,6 +20,9 @@ COLUNAS = [
 # filtra o dataset para as 9 colunas -> escolhi oque eu acho que vai ser mais interessante para as perguntas
 df_filtered = df[COLUNAS].copy()
 
+# remove as linhas com valor nulo
+df_filtered = df_filtered.dropna()
+
 # "normalizar" e padronizar as tabelas para o prolog conseguir ler
 def normalizar_data(data):
     text = str(data).strip().lower()

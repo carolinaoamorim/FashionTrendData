@@ -99,7 +99,7 @@ Os dados foram padronizados para o formato aceito pelo Prolog:
 
 - letras minúsculas  
 
-- substituição de espaços por `_`  
+- substituição de espaços por `_` 
 
 - remoção de caracteres especiais  
 
@@ -184,9 +184,17 @@ https://swish.swi-prolog.org/
 
 3. Executar as queries:
 
+```bash
 ?- favorita_primavera(Resultado).
+```
+
+```bash
 ?- ano_bikershorts(Resultado).
+```
+
+```bash
 ?- favorita_inverno(Resultado).
+```
 
 ## Tecnologias Ultilizadas
 

@@ -1,5 +1,3 @@
-% arquivo com os programas
-
 % 1) Qual estampa é a favorita para a primavera? -> Qual estampa teve a maior soma de wishlist count na spring
 
 peca_primavera(Pattern, Wish) :-
@@ -13,7 +11,7 @@ wishlist_total_primavera(Pattern, Total) :-
 
 favorita_primavera(Total-Pattern) :-
     setof(T-P,
-            wishlist_total_primavera(P-T),
+            wishlist_total_primavera(P, T),
             Lista),
     last(Lista, Total-Pattern).
 
