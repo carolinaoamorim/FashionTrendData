@@ -4,6 +4,7 @@ peca_primavera(Pattern, Wish) :-
     peca(_, _, _, Pattern, spring, _, _, Wish, _).
 
 wishlist_total_primavera(Pattern, Total) :-
+    peca_primavera(Pattern, _),
     findall(Wish,
             peca(_, _, _, Pattern, spring, _, _, Wish, _),
             Lista),
@@ -13,24 +14,25 @@ favorita_primavera(Total-Pattern) :-
     setof(T-P,
             wishlist_total_primavera(P, T),
             Lista),
-    last(Lista, Total-Pattern).
+    last(Lista, _-Pattern).
 
-% 2) Em qual ano os biker shorts foram tendência? -> Qual ano os biker_shorts tiveram a maior soma de sales_count
+% 2) Em qual ano os summer dress foram tendência? -> Qual ano os summer_dress tiveram a maior soma de sales_count
 
-bikershorts_venda(Year, Sales) :-
-    peca(_, biker_shorts, _, _, _, Sales, _, _, Year).
+summerdress_venda(Year, Sales) :-
+    peca(_, summer_dress, _, _, _, Sales, _, _, Year).
 
-sales_bikershorts(Year, Total) :-
+sales_summerdress(Year, Total) :-
+    summerdress_venda(Year, _),
     findall(Sales,
-            peca(_, biker_shorts, _, _, _, Sales, _, _, Year),
+            peca(_, summer_dress, _, _, _, Sales, _, _, Year),
             Lista),
     sum_list(Lista, Total).
 
-ano_bikershorts(Total-Year) :-
+ano_summerdress(Total-Year) :-
     setof(T-Y,
-            sales_bikershorts(Y, T),
+            sales_summerdress(Y, T),
             Lista),
-    last(Lista, Total-Year).
+    last(Lista, _-Year).
 
 
 % 3) Qual foi o melhor produto do inverno? -> Qual categoria teve a maior media de avarage rating no inverno
@@ -39,6 +41,7 @@ inverno_rating(Category, Rating) :-
     peca(_, _, Category, _, winter, _, Rating, _, _).
 
 media_rating(Category, Media) :-
+    inverno_rating(Category, _),
     findall(Rating,
             peca(_, _, Category, _, winter, _, Rating, _, _),
             Lista),
@@ -51,4 +54,4 @@ favorita_inverno(Media-Category) :-
     setof(M-C,
             media_rating(C, M),
             Lista),
-    last(Lista, Media-Category).
+    last(Lista, _-Category).

@@ -151,7 +151,7 @@ rodar:
 
 ```bash
 
-python3 gerar_base.py
+python3 base_fashion.py
 
 ```
 
@@ -189,7 +189,7 @@ https://swish.swi-prolog.org/
 ```
 
 ```bash
-?- ano_bikershorts(Resultado).
+?- ano_summerdress(Resultado).
 ```
 
 ```bash
