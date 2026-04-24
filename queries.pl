@@ -12,7 +12,7 @@
 ?- sales_wooljacket(Year, Total).
 ?- ano_wooljacket(Resultado).
 
-% 3) Qual é a peça com melhor avaliação no inverno entre pessoas entre 18-24 anos? com o avarage rating
+% 3) Qual é a categoria com a melhor avaliação no inverno entre pessoas entre 18-24 anos? com o avarage rating
 
 ?- inverno_idade_rating(Category, Rating).
 ?- media_rating_jovem(Category, Media).

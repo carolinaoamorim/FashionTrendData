@@ -35,7 +35,7 @@ ano_wooljacket(Year) :-
     last(Lista, _-Year).
 
 
-% 3) Qual é a peça com melhor avaliação no inverno entre pessoas entre 18-24 anos?
+% 3) Qual é a categoria com a melhor avaliação no inverno entre pessoas entre 18-24 anos?
 
 inverno_idade_rating(Category, Rating) :-
     peca(_, _, Category, _, 18_24, winter, _, Rating, _, _).
