@@ -31,7 +31,7 @@ def normalizar_data(data):
     text = re.sub(r"[^a-z0-9_]", "", text)
     return text
 
-with open("base_fashion.pl", "w", encoding="utf-8") as f: # se nao existir o arquivo ele cria
+with open("base.pl", "w", encoding="utf-8") as f: # se nao existir o arquivo ele cria
 
     # percorre o arquivo filtrado e normaliza/padroniza os dados
     for _, row in df_filtered.iterrows():

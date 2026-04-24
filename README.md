@@ -2,19 +2,19 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido com o objetivo de analisar um conjunto de dados de moda usando **Python** e **Prolog** e analisar tendências com base na quantidade de produtos vendido, avaliação média e quantidade em wish lists. Com isso foi possível analisar padrões de compras - como tipo de produto, estampa e categoria - baseado no ano e estação.
+Este projeto foi desenvolvido com o objetivo de analisar um conjunto de dados de moda usando **Python** e **Prolog** e analisar tendências com base na quantidade de produtos vendido, avaliação média e quantidade em wish lists. Com isso foi possível analisar padrões de compras - como tipo de produto, estampa e categoria - baseado no ano e estação
 
-A proposta principal foi transformar dados de um arquivo `.csv` em uma **base de conhecimento lógica**, para que fosse possível fazer consultas e conclusões sobre tendências de moda.
+A proposta principal foi transformar dados de um arquivo `.csv` em uma **base de conhecimento lógica**, para que fosse possível fazer consultas e conclusões sobre tendências de moda
 
 O projeto funciona em duas etapas:
 
 1. **Tratamento dos dados em Python**  
 
-   O arquivo CSV (base de dados original) é lido, filtrado e normalizado para gerar fatos no formato aceito pelo Prolog.
+   O arquivo CSV (base de dados original) é lido, filtrado e normalizado para gerar fatos no formato aceito pelo Prolog
 
 2. **Análise em Prolog**  
 
-   A base nova gerada na etapa anterior é usada para criar regras lógicas e responder perguntas sobre padrões de moda, tendências de vendas, popularidade e avaliações.
+   A base nova gerada na etapa anterior é usada para criar regras lógicas e responder perguntas sobre padrões de moda, tendências de vendas, popularidade e avaliações
 
 ---
 
@@ -22,7 +22,7 @@ O projeto funciona em duas etapas:
 
 A partir do dataset original, o código:
 
-- seleciona apenas as colunas selecionadas (as mais relevantes para as análises)
+- seleciona apenas as colunas selecionadas (as mais relevantes para as análises que vão ser feitas)
 
 - padroniza os dados textuais para o formato do Prolog
 
@@ -30,7 +30,7 @@ A partir do dataset original, o código:
 
 - cria regras para analisar padrões no dataset
 
-- responde perguntas sobre tendências de moda
+- responde perguntas sobre tendências de moda em contextos específicos
 
 ---
 
@@ -52,15 +52,15 @@ A partir do dataset original, o código:
 
 ```bash
 
-├── fashion_data_2018_2022.csv   # dataset original
+├── fashion_data_2018_2022.csv. # dataset original
 
-├── gerar_base.py                # script python que gera os fatos Prolog
+├── fashion.py  # script python que gera os fatos Prolog
 
-├── base_fashion.pl              # base de fatos gerada
+├── base.pl  # base de fatos gerada ao rodar o fashion.py
 
-├── regras_fashion.pl            # regras lógicas em Prolog
+├── regras.pl. # regras lógicas em Prolog
 
-└── queries_fashion.pl           # consultas utilizadas para testar (as perguntas)
+└── queries.pl  # queries utilizadas para testar (as perguntas)
 
 ```
 ---
@@ -107,9 +107,9 @@ Os dados foram padronizados para o formato aceito pelo Prolog:
 
 Exemplo:
 
-- `Biker Shorts` → `biker_shorts`  
+- `Summer Dress` → `summer_dress`  
 
-- `Floral Print` → `floral_print`  
+- `Polka Dots` → `polka_dots` 
 
 ---
 
@@ -119,7 +119,7 @@ Cada linha do dataset é convertida para o formato:
 
 ```prolog
 
-peca(ProductID, ProductName, Category, Pattern, Season, SalesCount, AverageRating, WishListCount, YearOfSale).
+peca(ProductID, ProductName, Category, Pattern, AgeGroup, Season, SalesCount, AverageRating, WishListCount, YearOfSale).
 
 ```
 ---
@@ -144,6 +144,12 @@ rodar:
 ```bash
 
 pip install pandas
+
+```
+
+```bash
+
+pip install re
 
 ```
 
@@ -179,8 +185,8 @@ https://swish.swi-prolog.org/
 
 ```bash
 
-    * base_fashion.pl
-    * regras_fashion.pl
+    * base.pl
+    * regras.pl
 
 ```
 
