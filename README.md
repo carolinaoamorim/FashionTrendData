@@ -193,7 +193,7 @@ https://swish.swi-prolog.org/
 ```
 
 ```bash
-?- favorita_inverno(Resultado).
+?- favorita_inverno_jovem(Resultado).
 ```
 
 ## Tecnologias Ultilizadas
