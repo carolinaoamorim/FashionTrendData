@@ -10,6 +10,7 @@ COLUNAS = [
     "product_name",
     "category",
     "pattern",
+    "age_group",
     "season",
     "sales_count",
     "average_rating",

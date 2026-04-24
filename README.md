@@ -189,7 +189,7 @@ https://swish.swi-prolog.org/
 ```
 
 ```bash
-?- ano_summerdress(Resultado).
+?- ano_wooljacket(Resultado).
 ```
 
 ```bash

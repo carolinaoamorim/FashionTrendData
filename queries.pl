@@ -6,13 +6,13 @@
 ?- wishlist_total_primavera(Pattern, Total).
 ?- favorita_primavera(Resultado).
 
-% 2) Em qual ano os biker shorts foram tendência? -> com o maior sales_count
+% 2) Em qual ano os Wool Jackets foram tendência no outono? -> com o maior sales_count
 
-?- bikershorts_venda(Year, Sales).
-?- sales_bikershorts(Year, Total).
-?- ano_bikershorts(Resultado).
+?- wooljacket_venda(Year, Sales).
+?- sales_wooljacket(Year, Total).
+?- ano_wooljacket(Resultado).
 
-% 3) Qual foi o melhor produto do inverno? -> com o avarage rating
+% 3) Qual é a peça mais ultizada no inverno entre pessoas entre 18-24 anos? com o avarage rating
 
 ?- inverno_rating(Category, Rating).
 ?- media_rating(Category, Media).

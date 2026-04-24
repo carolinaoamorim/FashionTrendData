@@ -1,12 +1,12 @@
 % 1) Qual estampa é a favorita para a primavera? -> Qual estampa teve a maior soma de wishlist count na spring
 
 peca_primavera(Pattern, Wish) :-
-    peca(_, _, _, Pattern, spring, _, _, Wish, _).
+    peca(_, _, _, Pattern, _, spring, _, _, Wish, _).
 
 wishlist_total_primavera(Pattern, Total) :-
     peca_primavera(Pattern, _),
     findall(Wish,
-            peca(_, _, _, Pattern, spring, _, _, Wish, _),
+            peca(_, _, _, Pattern, _, spring, _, _, Wish, _),
             Lista),
     sum_list(Lista, Total).
 
@@ -16,21 +16,21 @@ favorita_primavera(Total-Pattern) :-
             Lista),
     last(Lista, _-Pattern).
 
-% 2) Em qual ano os summer dress foram tendência? -> Qual ano os summer_dress tiveram a maior soma de sales_count
+% 2) Em qual ano os Wool Jackets foram tendência no outono?
 
-summerdress_venda(Year, Sales) :-
-    peca(_, summer_dress, _, _, _, Sales, _, _, Year).
+wooljacket_venda(Year, Sales) :-
+    peca(_, wool_jacket, _, _, _, autumn, Sales, _, _, Year).
 
-sales_summerdress(Year, Total) :-
-    summerdress_venda(Year, _),
+sales_wooljacket(Year, Total) :-
+    wooljacket_venda(Year, _),
     findall(Sales,
-            peca(_, summer_dress, _, _, _, Sales, _, _, Year),
+            peca(_, wool_jacket, _, _, _, autumn, Sales, _, _, Year),
             Lista),
     sum_list(Lista, Total).
 
-ano_summerdress(Total-Year) :-
+ano_wooljacket(Total-Year) :-
     setof(T-Y,
-            sales_summerdress(Y, T),
+            sales_wooljacket(Y, T),
             Lista),
     last(Lista, _-Year).
 
@@ -38,12 +38,12 @@ ano_summerdress(Total-Year) :-
 % 3) Qual foi o melhor produto do inverno? -> Qual categoria teve a maior media de avarage rating no inverno
 
 inverno_rating(Category, Rating) :-
-    peca(_, _, Category, _, winter, _, Rating, _, _).
+    peca(_, _, Category, _, _,winter, _, Rating, _, _).
 
 media_rating(Category, Media) :-
     inverno_rating(Category, _),
     findall(Rating,
-            peca(_, _, Category, _, winter, _, Rating, _, _),
+            peca(_, _, Category, _, _, winter, _, Rating, _, _),
             Lista),
 
     sum_list(Lista, Soma), 
