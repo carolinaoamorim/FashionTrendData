@@ -77,7 +77,9 @@ Foram utilizadas as seguintes colunas do banco de dados original:
 
 - category  
 
-- pattern  
+- pattern
+
+- age_group 
 
 - season  
 
