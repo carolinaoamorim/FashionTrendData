@@ -10,7 +10,7 @@ wishlist_total_primavera(Pattern, Total) :-
             Lista),
     sum_list(Lista, Total).
 
-favorita_primavera(Total-Pattern) :-
+favorita_primavera(Pattern) :-
     setof(T-P,
             wishlist_total_primavera(P, T),
             Lista),
@@ -28,30 +28,30 @@ sales_wooljacket(Year, Total) :-
             Lista),
     sum_list(Lista, Total).
 
-ano_wooljacket(Total-Year) :-
+ano_wooljacket(Year) :-
     setof(T-Y,
             sales_wooljacket(Y, T),
             Lista),
     last(Lista, _-Year).
 
 
-% 3) Qual foi o melhor produto do inverno? -> Qual categoria teve a maior media de avarage rating no inverno
+% 3) Qual é a peça com melhor avaliação no inverno entre pessoas entre 18-24 anos?
 
-inverno_rating(Category, Rating) :-
-    peca(_, _, Category, _, _,winter, _, Rating, _, _).
+inverno_idade_rating(Category, Rating) :-
+    peca(_, _, Category, _, 18_24, winter, _, Rating, _, _).
 
-media_rating(Category, Media) :-
-    inverno_rating(Category, _),
+media_rating_jovem(Category, Media) :-
+    inverno_idade_rating(Category, _),
     findall(Rating,
-            peca(_, _, Category, _, _, winter, _, Rating, _, _),
+            peca(_, _, Category, _, 18_24, winter, _, Rating, _, _),
             Lista),
 
     sum_list(Lista, Soma), 
     length(Lista, Quantidade),
     Media is Soma / Quantidade.
 
-favorita_inverno(Media-Category) :-
+favorita_inverno_jovem(Category) :-
     setof(M-C,
-            media_rating(C, M),
+            media_rating_jovem(C, M),
             Lista),
     last(Lista, _-Category).

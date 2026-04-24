@@ -39,6 +39,7 @@ with open("base_fashion.pl", "w", encoding="utf-8") as f: # se nao existir o arq
         product_name = normalizar_data(row["product_name"])
         category = normalizar_data(row["category"])
         pattern = normalizar_data(row["pattern"])
+        age_group = normalizar_data(row["age_group"])
         season = normalizar_data(row["season"])
         sales_count = int(row["sales_count"])
         average_rating = float(row["average_rating"])
@@ -46,6 +47,6 @@ with open("base_fashion.pl", "w", encoding="utf-8") as f: # se nao existir o arq
         year_of_sale = int(row["year_of_sale"])
 
         line = (
-            f"peca({product_id}, {product_name}, {category}, {pattern}, {season}, {sales_count}, {average_rating}, {wish_list_count}, {year_of_sale}).\n"
+            f"peca({product_id}, {product_name}, {category}, {pattern}, {age_group}, {season}, {sales_count}, {average_rating}, {wish_list_count}, {year_of_sale}).\n"
         )
         f.write(line)

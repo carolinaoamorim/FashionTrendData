@@ -1,660 +1,660 @@
-peca(1001, biker_jacket, shirt, geometric, spring, 75, 4.9, 211, 2018).
-peca(1002, business_shirt, jacket, polka_dots, summer, 296, 3.5, 211, 2018).
-peca(1003, wool_jacket, dress, geometric, all, 50, 4.3, 64, 2018).
-peca(1004, summer_dress, shorts, plain, all, 435, 4.6, 171, 2018).
-peca(1005, casual_jeans, shirt, plain, winter, 79, 3.6, 126, 2018).
-peca(1006, business_shirt, shirt, plain, spring, 332, 4.7, 136, 2018).
-peca(1007, casual_jeans, blouse, plain, all, 100, 4.0, 170, 2018).
-peca(1008, heels, shoes, geometric, autumn, 333, 3.2, 128, 2018).
-peca(1009, beach_shirt, shirt, polka_dots, all, 424, 3.5, 193, 2018).
-peca(1010, pattern_skirt, jeans, plain, summer, 335, 4.1, 248, 2018).
-peca(1011, business_shirt, dress, plain, all, 304, 3.7, 213, 2018).
-peca(1012, blouse, jacket, plain, spring, 62, 4.6, 73, 2018).
-peca(1013, chino_shorts, jeans, heart, autumn, 352, 4.4, 181, 2018).
-peca(1014, pattern_skirt, jeans, heart, winter, 461, 4.0, 88, 2018).
-peca(1015, blouse, shorts, plain, spring, 265, 3.7, 130, 2018).
-peca(1016, blouse, jeans, polka_dots, all, 146, 4.6, 181, 2018).
-peca(1017, pattern_skirt, shorts, heart, winter, 296, 3.0, 84, 2018).
-peca(1018, summer_dress, skirt, plain, summer, 247, 3.3, 149, 2018).
-peca(1019, casual_jeans, shorts, heart, summer, 437, 4.8, 153, 2018).
-peca(1020, pattern_skirt, skirt, polka_dots, spring, 356, 3.8, 139, 2018).
-peca(1021, blouse, skirt, plain, all, 451, 3.6, 54, 2018).
-peca(1022, blouse, jeans, polka_dots, summer, 189, 3.9, 104, 2018).
-peca(1023, heels, shoes, geometric, autumn, 426, 4.2, 170, 2018).
-peca(1024, pattern_skirt, shoes, geometric, summer, 377, 4.8, 186, 2018).
-peca(1025, blouse, dress, polka_dots, winter, 198, 3.8, 149, 2018).
-peca(1026, casual_jeans, shorts, polka_dots, summer, 405, 3.2, 101, 2018).
-peca(1027, summer_dress, jeans, geometric, autumn, 177, 4.6, 196, 2018).
-peca(1028, business_shirt, shorts, polka_dots, autumn, 234, 4.1, 120, 2018).
-peca(1029, summer_dress, skirt, geometric, all, 78, 3.2, 195, 2018).
-peca(1030, casual_jeans, dress, polka_dots, summer, 244, 3.9, 116, 2018).
-peca(1031, blouse, shorts, geometric, winter, 381, 4.0, 181, 2018).
-peca(1032, biker_jacket, shirt, geometric, all, 142, 4.5, 64, 2018).
-peca(1033, beach_shirt, blouse, plain, all, 78, 3.3, 212, 2018).
-peca(1034, blouse, skirt, geometric, autumn, 168, 3.6, 212, 2018).
-peca(1035, wool_jacket, skirt, plain, autumn, 87, 4.3, 247, 2018).
-peca(1036, casual_jeans, jeans, geometric, summer, 123, 3.1, 82, 2018).
-peca(1037, pattern_skirt, dress, plain, spring, 466, 4.7, 95, 2018).
-peca(1038, beach_shirt, blouse, geometric, all, 205, 4.2, 190, 2018).
-peca(1039, heels, shirt, polka_dots, autumn, 360, 3.1, 136, 2018).
-peca(1040, summer_dress, shorts, geometric, summer, 138, 3.6, 142, 2018).
-peca(1041, beach_shirt, shoes, polka_dots, winter, 160, 4.0, 140, 2018).
-peca(1042, biker_jacket, blouse, geometric, winter, 217, 4.6, 155, 2018).
-peca(1043, biker_jacket, jacket, polka_dots, autumn, 457, 3.0, 93, 2018).
-peca(1044, beach_shirt, jeans, plain, winter, 424, 4.4, 231, 2018).
-peca(1045, blouse, jacket, plain, summer, 453, 3.4, 82, 2018).
-peca(1046, heels, jacket, plain, autumn, 189, 3.3, 198, 2018).
-peca(1047, beach_shirt, dress, plain, winter, 180, 3.5, 171, 2018).
-peca(1048, biker_jacket, blouse, plain, winter, 54, 4.2, 65, 2018).
-peca(1049, chino_shorts, shorts, geometric, spring, 170, 4.5, 241, 2018).
-peca(1050, chino_shorts, blouse, geometric, spring, 495, 4.1, 188, 2018).
-peca(1051, business_shirt, dress, geometric, autumn, 380, 3.7, 154, 2018).
-peca(1052, business_shirt, jacket, geometric, summer, 359, 3.1, 208, 2018).
-peca(1053, pattern_skirt, shirt, plain, autumn, 257, 3.7, 74, 2018).
-peca(1054, chino_shorts, jeans, geometric, winter, 484, 4.1, 157, 2018).
-peca(1055, beach_shirt, jacket, geometric, winter, 265, 3.6, 230, 2018).
-peca(1056, summer_dress, shorts, geometric, winter, 479, 4.9, 98, 2018).
-peca(1057, pattern_skirt, skirt, plain, winter, 357, 3.1, 132, 2018).
-peca(1058, beach_shirt, jacket, plain, summer, 304, 4.7, 156, 2018).
-peca(1059, casual_jeans, jacket, geometric, winter, 149, 4.6, 247, 2018).
-peca(1060, biker_jacket, blouse, plain, spring, 373, 3.4, 228, 2018).
-peca(1061, blouse, shirt, geometric, autumn, 148, 4.4, 218, 2018).
-peca(1062, biker_jacket, dress, geometric, winter, 238, 3.8, 182, 2018).
-peca(1063, business_shirt, jacket, geometric, all, 463, 3.8, 160, 2018).
-peca(1064, heels, shirt, floral, autumn, 381, 4.6, 105, 2018).
-peca(1065, pattern_skirt, shorts, geometric, summer, 187, 3.1, 96, 2018).
-peca(1066, biker_jacket, blouse, plain, spring, 123, 3.7, 127, 2018).
-peca(1067, casual_jeans, blouse, polka_dots, all, 492, 4.7, 229, 2018).
-peca(1068, business_shirt, skirt, geometric, winter, 79, 3.4, 179, 2018).
-peca(1069, biker_jacket, blouse, geometric, winter, 244, 4.7, 67, 2018).
-peca(1070, beach_shirt, dress, polka_dots, winter, 324, 4.7, 235, 2018).
-peca(1071, chino_shorts, jacket, geometric, summer, 132, 4.2, 221, 2018).
-peca(1072, summer_dress, jeans, geometric, winter, 326, 3.6, 54, 2018).
-peca(1073, chino_shorts, shirt, geometric, all, 125, 3.6, 211, 2018).
-peca(1074, wool_jacket, shoes, plain, summer, 165, 3.5, 250, 2018).
-peca(1075, biker_jacket, jacket, geometric, winter, 326, 3.8, 207, 2018).
-peca(1076, wool_jacket, shoes, polka_dots, summer, 161, 3.4, 218, 2018).
-peca(1077, casual_jeans, blouse, plain, spring, 264, 4.5, 183, 2018).
-peca(1078, biker_jacket, shoes, plain, all, 284, 3.7, 221, 2018).
-peca(1079, heels, skirt, polka_dots, winter, 147, 3.3, 205, 2018).
-peca(1080, summer_dress, skirt, polka_dots, spring, 301, 3.3, 147, 2018).
-peca(1081, wool_jacket, skirt, geometric, spring, 227, 4.4, 227, 2018).
-peca(1082, blouse, dress, plain, all, 91, 4.4, 225, 2018).
-peca(1083, summer_dress, shorts, geometric, winter, 268, 3.2, 239, 2018).
-peca(1084, blouse, blouse, polka_dots, spring, 323, 4.7, 233, 2018).
-peca(1085, blouse, shoes, plain, all, 427, 4.0, 66, 2018).
-peca(1086, summer_dress, jeans, geometric, summer, 456, 4.5, 204, 2018).
-peca(1087, chino_shorts, shoes, geometric, all, 200, 3.4, 185, 2018).
-peca(1088, summer_dress, blouse, plain, spring, 170, 4.1, 152, 2018).
-peca(1089, wool_jacket, blouse, plain, spring, 420, 3.7, 91, 2018).
-peca(1090, heels, skirt, plain, winter, 100, 3.7, 125, 2018).
-peca(1091, wool_jacket, shirt, plain, spring, 126, 4.5, 58, 2018).
-peca(1092, summer_dress, shirt, polka_dots, spring, 107, 4.8, 88, 2018).
-peca(1093, business_shirt, blouse, polka_dots, winter, 176, 4.2, 203, 2018).
-peca(1094, casual_jeans, skirt, polka_dots, all, 486, 3.7, 178, 2018).
-peca(1095, pattern_skirt, shoes, polka_dots, all, 86, 3.1, 95, 2018).
-peca(1096, wool_jacket, blouse, polka_dots, winter, 288, 3.9, 87, 2018).
-peca(1097, biker_jacket, shirt, geometric, winter, 200, 3.9, 121, 2018).
-peca(1098, blouse, dress, polka_dots, summer, 73, 3.9, 227, 2018).
-peca(1099, wool_jacket, jeans, plain, summer, 225, 4.1, 198, 2018).
-peca(1100, casual_jeans, skirt, striped, summer, 418, 3.5, 144, 2018).
-peca(1101, heels, skirt, striped, summer, 195, 3.7, 215, 2018).
-peca(1102, blouse, shoes, striped, all, 396, 3.6, 238, 2018).
-peca(1103, heels, dress, striped, summer, 388, 3.7, 247, 2018).
-peca(1104, wool_jacket, skirt, striped, all, 184, 3.4, 141, 2018).
-peca(1105, beach_shirt, shorts, plain, spring, 476, 3.7, 158, 2018).
-peca(1106, chino_shorts, jeans, striped, all, 273, 4.3, 248, 2018).
-peca(1107, beach_shirt, shorts, striped, summer, 354, 3.0, 238, 2018).
-peca(1108, beach_shirt, blouse, striped, all, 462, 3.8, 169, 2018).
-peca(1109, business_shirt, shirt, striped, winter, 248, 4.7, 83, 2018).
-peca(1110, summer_dress, skirt, striped, autumn, 96, 4.1, 230, 2018).
-peca(1111, chino_shorts, jeans, geometric, all, 386, 3.2, 78, 2018).
-peca(1112, beach_shirt, shirt, polka_dots, autumn, 427, 3.3, 177, 2018).
-peca(1113, business_shirt, shoes, geometric, winter, 287, 3.8, 159, 2018).
-peca(1114, blouse, shirt, geometric, winter, 303, 3.0, 131, 2018).
-peca(1115, chino_shorts, jacket, geometric, spring, 283, 3.6, 94, 2018).
-peca(1116, pattern_skirt, shoes, plain, summer, 291, 4.3, 56, 2018).
-peca(1117, casual_jeans, shoes, geometric, winter, 221, 4.5, 110, 2018).
-peca(1118, wool_jacket, jacket, polka_dots, autumn, 69, 3.5, 249, 2018).
-peca(1119, biker_jacket, skirt, plain, spring, 461, 3.6, 81, 2018).
-peca(1120, heels, jacket, geometric, all, 207, 4.1, 125, 2018).
-peca(1121, blouse, shirt, polka_dots, spring, 103, 4.3, 60, 2018).
-peca(1122, summer_dress, skirt, geometric, summer, 117, 4.7, 131, 2018).
-peca(1123, summer_dress, shoes, plain, autumn, 223, 4.6, 185, 2018).
-peca(1124, chino_shorts, shorts, plain, all, 113, 4.9, 86, 2018).
-peca(1125, beach_shirt, skirt, geometric, autumn, 348, 4.1, 199, 2018).
-peca(1126, business_shirt, dress, geometric, autumn, 178, 4.5, 238, 2018).
-peca(1127, summer_dress, jeans, polka_dots, all, 289, 3.5, 173, 2018).
-peca(1128, casual_jeans, skirt, plain, spring, 496, 4.6, 109, 2018).
-peca(1129, beach_shirt, shorts, geometric, spring, 210, 4.9, 154, 2018).
-peca(1130, chino_shorts, shoes, polka_dots, spring, 452, 3.7, 222, 2018).
-peca(1131, casual_jeans, shoes, plain, autumn, 51, 4.8, 223, 2018).
-peca(1132, pattern_skirt, jacket, geometric, winter, 493, 4.1, 66, 2018).
-peca(1133, heels, jeans, geometric, winter, 306, 4.5, 144, 2019).
-peca(1134, heels, jeans, plain, autumn, 378, 4.3, 189, 2019).
-peca(1135, biker_jacket, shirt, plain, spring, 247, 4.5, 111, 2019).
-peca(1136, heels, shoes, geometric, spring, 302, 3.0, 223, 2019).
-peca(1137, blouse, shirt, plain, summer, 374, 3.4, 235, 2019).
-peca(1138, wool_jacket, shoes, geometric, all, 415, 4.9, 59, 2019).
-peca(1139, chino_shorts, blouse, plain, autumn, 77, 3.6, 145, 2019).
-peca(1140, chino_shorts, shirt, geometric, autumn, 134, 4.1, 203, 2019).
-peca(1141, blouse, jeans, polka_dots, spring, 329, 3.0, 128, 2019).
-peca(1142, blouse, skirt, plain, summer, 292, 4.3, 111, 2019).
-peca(1143, casual_jeans, jeans, polka_dots, winter, 111, 4.5, 92, 2019).
-peca(1144, blouse, dress, polka_dots, all, 450, 4.0, 112, 2019).
-peca(1145, blouse, shoes, polka_dots, all, 443, 4.2, 216, 2019).
-peca(1146, pattern_skirt, dress, heart, winter, 265, 3.3, 145, 2019).
-peca(1147, casual_jeans, shirt, polka_dots, summer, 432, 4.0, 155, 2019).
-peca(1148, business_shirt, jeans, polka_dots, spring, 92, 3.9, 92, 2019).
-peca(1149, wool_jacket, dress, plain, spring, 321, 4.1, 126, 2019).
-peca(1150, blouse, shoes, polka_dots, summer, 250, 3.7, 158, 2019).
-peca(1151, business_shirt, dress, polka_dots, spring, 296, 3.9, 97, 2019).
-peca(1152, business_shirt, skirt, polka_dots, all, 242, 3.8, 56, 2019).
-peca(1153, summer_dress, shoes, heart, winter, 269, 3.1, 220, 2019).
-peca(1154, biker_jacket, blouse, polka_dots, spring, 229, 4.7, 216, 2019).
-peca(1155, pattern_skirt, shorts, polka_dots, winter, 159, 4.5, 93, 2019).
-peca(1156, wool_jacket, shoes, plain, all, 223, 3.7, 131, 2019).
-peca(1157, blouse, dress, polka_dots, autumn, 152, 4.0, 68, 2019).
-peca(1158, casual_jeans, jacket, geometric, all, 378, 3.3, 121, 2019).
-peca(1159, blouse, dress, polka_dots, summer, 356, 3.5, 65, 2019).
-peca(1160, beach_shirt, dress, geometric, spring, 149, 4.8, 116, 2019).
-peca(1161, casual_jeans, shorts, plain, summer, 496, 4.9, 66, 2019).
-peca(1162, business_shirt, skirt, geometric, autumn, 492, 4.3, 164, 2019).
-peca(1163, business_shirt, shorts, geometric, spring, 194, 3.8, 152, 2019).
-peca(1164, wool_jacket, jeans, polka_dots, winter, 91, 3.7, 80, 2019).
-peca(1165, wool_jacket, shorts, plain, all, 238, 3.1, 94, 2019).
-peca(1166, blouse, dress, plain, summer, 283, 3.7, 218, 2019).
-peca(1167, wool_jacket, shoes, geometric, spring, 208, 4.7, 173, 2019).
-peca(1168, wool_jacket, jeans, plain, all, 100, 3.8, 110, 2019).
-peca(1169, wool_jacket, shoes, polka_dots, spring, 124, 4.3, 64, 2019).
-peca(1170, summer_dress, shorts, plain, all, 259, 4.3, 139, 2019).
-peca(1171, business_shirt, blouse, polka_dots, autumn, 272, 3.7, 227, 2019).
-peca(1172, chino_shorts, jacket, plain, all, 161, 4.4, 198, 2019).
-peca(1173, casual_jeans, blouse, plain, winter, 160, 4.0, 155, 2019).
-peca(1174, beach_shirt, skirt, plain, spring, 205, 3.6, 124, 2019).
-peca(1175, beach_shirt, skirt, polka_dots, all, 152, 5.0, 208, 2019).
-peca(1176, beach_shirt, shorts, plain, summer, 317, 4.7, 210, 2019).
-peca(1177, biker_jacket, shorts, plain, autumn, 461, 4.7, 241, 2019).
-peca(1178, heels, shoes, plain, summer, 70, 4.3, 98, 2019).
-peca(1179, beach_shirt, shoes, geometric, autumn, 311, 3.9, 172, 2019).
-peca(1180, business_shirt, shoes, geometric, all, 387, 3.0, 184, 2019).
-peca(1181, pattern_skirt, shoes, geometric, autumn, 399, 4.1, 240, 2019).
-peca(1182, casual_jeans, skirt, plain, winter, 135, 4.9, 217, 2019).
-peca(1183, beach_shirt, skirt, plain, all, 375, 4.4, 52, 2019).
-peca(1184, beach_shirt, blouse, polka_dots, autumn, 72, 4.4, 67, 2019).
-peca(1185, biker_jacket, shorts, geometric, spring, 500, 4.1, 83, 2019).
-peca(1186, chino_shorts, shorts, geometric, autumn, 155, 3.5, 179, 2019).
-peca(1187, wool_jacket, shoes, plain, all, 440, 4.7, 135, 2019).
-peca(1188, blouse, skirt, geometric, all, 367, 4.3, 194, 2019).
-peca(1189, casual_jeans, dress, geometric, all, 279, 3.1, 131, 2019).
-peca(1190, summer_dress, shorts, floral, summer, 301, 4.7, 167, 2019).
-peca(1191, summer_dress, shirt, plain, autumn, 130, 3.5, 94, 2019).
-peca(1192, casual_jeans, jacket, geometric, winter, 246, 4.8, 192, 2019).
-peca(1193, pattern_skirt, shorts, plain, summer, 211, 3.7, 133, 2019).
-peca(1194, blouse, skirt, geometric, winter, 460, 4.1, 176, 2019).
-peca(1195, summer_dress, blouse, plain, winter, 314, 3.5, 213, 2019).
-peca(1196, pattern_skirt, shorts, plain, autumn, 93, 4.0, 92, 2019).
-peca(1197, beach_shirt, dress, floral, winter, 186, 3.6, 224, 2019).
-peca(1198, biker_jacket, shirt, plain, summer, 51, 4.3, 218, 2019).
-peca(1199, blouse, shorts, polka_dots, winter, 391, 4.0, 80, 2019).
-peca(1200, chino_shorts, dress, polka_dots, spring, 84, 4.1, 227, 2019).
-peca(1201, wool_jacket, dress, polka_dots, all, 318, 3.6, 110, 2019).
-peca(1202, blouse, shoes, plain, spring, 387, 3.6, 142, 2019).
-peca(1203, chino_shorts, blouse, geometric, winter, 469, 4.2, 201, 2019).
-peca(1204, heels, blouse, geometric, winter, 440, 4.2, 172, 2019).
-peca(1205, summer_dress, shorts, polka_dots, all, 68, 4.8, 196, 2019).
-peca(1206, heels, jeans, plain, winter, 73, 4.6, 122, 2019).
-peca(1207, summer_dress, blouse, geometric, winter, 165, 4.8, 146, 2019).
-peca(1208, biker_jacket, shoes, geometric, winter, 137, 3.2, 144, 2019).
-peca(1209, summer_dress, jeans, geometric, winter, 471, 4.3, 79, 2019).
-peca(1210, summer_dress, jacket, geometric, spring, 161, 3.7, 181, 2019).
-peca(1211, chino_shorts, dress, geometric, winter, 360, 4.5, 147, 2019).
-peca(1212, summer_dress, jeans, polka_dots, autumn, 426, 3.6, 239, 2019).
-peca(1213, business_shirt, skirt, plain, autumn, 88, 4.3, 227, 2019).
-peca(1214, beach_shirt, jacket, geometric, all, 353, 4.1, 206, 2019).
-peca(1215, beach_shirt, shirt, plain, all, 118, 5.0, 162, 2019).
-peca(1216, chino_shorts, skirt, geometric, all, 338, 3.7, 153, 2019).
-peca(1217, wool_jacket, jeans, plain, spring, 232, 3.1, 247, 2019).
-peca(1218, casual_jeans, skirt, plain, winter, 431, 4.0, 142, 2019).
-peca(1219, summer_dress, dress, plain, all, 351, 3.9, 75, 2019).
-peca(1220, casual_jeans, shorts, plain, all, 394, 4.5, 90, 2019).
-peca(1221, summer_dress, blouse, plain, winter, 472, 4.4, 77, 2019).
-peca(1222, beach_shirt, shoes, plain, winter, 445, 4.5, 187, 2019).
-peca(1223, heels, shirt, plain, all, 59, 4.7, 232, 2019).
-peca(1224, beach_shirt, dress, plain, spring, 90, 4.1, 84, 2019).
-peca(1225, beach_shirt, shorts, plain, autumn, 494, 4.7, 195, 2019).
-peca(1226, blouse, shirt, polka_dots, winter, 122, 3.9, 220, 2019).
-peca(1227, wool_jacket, skirt, polka_dots, autumn, 80, 4.4, 127, 2019).
-peca(1228, heels, shoes, geometric, winter, 58, 3.8, 138, 2019).
-peca(1229, beach_shirt, shirt, plain, spring, 363, 4.7, 134, 2019).
-peca(1230, casual_jeans, shorts, polka_dots, autumn, 150, 3.6, 75, 2019).
-peca(1231, wool_jacket, skirt, geometric, summer, 167, 3.5, 221, 2019).
-peca(1232, biker_jacket, jeans, striped, spring, 318, 4.6, 223, 2019).
-peca(1233, beach_shirt, jeans, plain, spring, 207, 4.7, 57, 2019).
-peca(1234, biker_jacket, shoes, plain, spring, 274, 4.4, 184, 2019).
-peca(1235, wool_jacket, jeans, striped, autumn, 399, 3.5, 85, 2019).
-peca(1236, wool_jacket, jacket, striped, winter, 427, 4.7, 155, 2019).
-peca(1237, pattern_skirt, jacket, striped, autumn, 395, 4.6, 223, 2019).
-peca(1238, wool_jacket, dress, striped, all, 153, 3.7, 236, 2019).
-peca(1239, casual_jeans, blouse, striped, autumn, 176, 4.8, 66, 2019).
-peca(1240, summer_dress, shoes, plain, autumn, 400, 3.6, 181, 2019).
-peca(1241, pattern_skirt, dress, plain, winter, 314, 4.2, 137, 2019).
-peca(1242, biker_jacket, shoes, plain, winter, 376, 4.2, 100, 2019).
-peca(1243, chino_shorts, skirt, geometric, summer, 207, 4.0, 217, 2019).
-peca(1244, wool_jacket, jeans, polka_dots, winter, 57, 3.6, 147, 2019).
-peca(1245, biker_jacket, jacket, polka_dots, spring, 123, 3.5, 143, 2019).
-peca(1246, beach_shirt, jacket, polka_dots, summer, 65, 3.8, 126, 2019).
-peca(1247, wool_jacket, skirt, geometric, autumn, 282, 3.1, 65, 2019).
-peca(1248, blouse, skirt, geometric, autumn, 421, 3.4, 121, 2019).
-peca(1249, blouse, shorts, polka_dots, autumn, 433, 4.2, 104, 2019).
-peca(1250, biker_jacket, jacket, plain, autumn, 230, 3.5, 200, 2019).
-peca(1251, wool_jacket, dress, geometric, winter, 58, 4.3, 97, 2019).
-peca(1252, business_shirt, shoes, geometric, spring, 95, 3.5, 194, 2019).
-peca(1253, wool_jacket, jeans, plain, autumn, 205, 4.7, 97, 2019).
-peca(1254, blouse, jacket, polka_dots, spring, 372, 3.8, 248, 2019).
-peca(1255, heels, shorts, geometric, spring, 227, 4.2, 56, 2019).
-peca(1256, wool_jacket, dress, geometric, summer, 254, 4.9, 98, 2019).
-peca(1257, heels, blouse, polka_dots, autumn, 69, 4.5, 114, 2019).
-peca(1258, chino_shorts, blouse, polka_dots, winter, 172, 5.0, 129, 2019).
-peca(1259, beach_shirt, skirt, geometric, winter, 340, 3.8, 97, 2019).
-peca(1260, wool_jacket, shoes, geometric, winter, 368, 5.0, 54, 2019).
-peca(1261, casual_jeans, shirt, geometric, autumn, 453, 3.3, 110, 2019).
-peca(1262, summer_dress, skirt, geometric, all, 249, 3.8, 151, 2019).
-peca(1263, casual_jeans, skirt, polka_dots, autumn, 308, 3.5, 130, 2019).
-peca(1264, heels, dress, geometric, spring, 247, 3.9, 72, 2019).
-peca(1265, blouse, shirt, plain, all, 405, 4.5, 61, 2020).
-peca(1266, casual_jeans, skirt, polka_dots, winter, 376, 3.9, 216, 2020).
-peca(1267, pattern_skirt, blouse, plain, autumn, 148, 4.8, 106, 2020).
-peca(1268, wool_jacket, dress, geometric, winter, 96, 4.7, 221, 2020).
-peca(1269, heels, shirt, geometric, autumn, 123, 4.1, 178, 2020).
-peca(1270, casual_jeans, skirt, plain, winter, 215, 3.5, 217, 2020).
-peca(1271, beach_shirt, skirt, plain, winter, 429, 4.6, 70, 2020).
-peca(1272, wool_jacket, jeans, geometric, spring, 78, 3.9, 168, 2020).
-peca(1273, casual_jeans, blouse, plain, all, 317, 3.1, 177, 2020).
-peca(1274, pattern_skirt, shoes, geometric, summer, 479, 4.4, 57, 2020).
-peca(1275, pattern_skirt, shirt, geometric, autumn, 233, 3.5, 110, 2020).
-peca(1276, beach_shirt, dress, polka_dots, all, 90, 4.3, 233, 2020).
-peca(1277, beach_shirt, shorts, polka_dots, spring, 83, 4.8, 107, 2020).
-peca(1278, summer_dress, jeans, polka_dots, summer, 251, 3.8, 206, 2020).
-peca(1279, business_shirt, dress, polka_dots, all, 400, 3.0, 122, 2020).
-peca(1280, blouse, jeans, polka_dots, autumn, 299, 4.0, 171, 2020).
-peca(1281, casual_jeans, dress, plain, all, 235, 3.6, 81, 2020).
-peca(1282, biker_jacket, dress, polka_dots, spring, 115, 4.4, 193, 2020).
-peca(1283, business_shirt, dress, heart, autumn, 184, 4.9, 141, 2020).
-peca(1284, casual_jeans, shorts, plain, summer, 347, 4.3, 143, 2020).
-peca(1285, summer_dress, jacket, heart, spring, 52, 3.8, 203, 2020).
-peca(1286, business_shirt, jeans, plain, all, 354, 4.7, 158, 2020).
-peca(1287, wool_jacket, blouse, plain, autumn, 335, 4.8, 93, 2020).
-peca(1288, wool_jacket, skirt, plain, spring, 207, 4.1, 140, 2020).
-peca(1289, beach_shirt, jeans, geometric, autumn, 212, 3.5, 102, 2020).
-peca(1290, business_shirt, shoes, plain, spring, 298, 4.0, 83, 2020).
-peca(1291, business_shirt, jacket, geometric, spring, 367, 3.8, 145, 2020).
-peca(1292, beach_shirt, shirt, polka_dots, all, 366, 4.1, 189, 2020).
-peca(1293, casual_jeans, shoes, geometric, winter, 346, 4.2, 164, 2020).
-peca(1294, chino_shorts, skirt, plain, all, 465, 3.4, 125, 2020).
-peca(1295, blouse, skirt, geometric, summer, 309, 3.2, 142, 2020).
-peca(1296, pattern_skirt, jacket, plain, summer, 164, 4.2, 236, 2020).
-peca(1297, blouse, jeans, polka_dots, spring, 416, 3.9, 220, 2020).
-peca(1298, chino_shorts, jacket, geometric, spring, 130, 3.6, 196, 2020).
-peca(1299, summer_dress, dress, polka_dots, spring, 276, 3.9, 145, 2020).
-peca(1300, heels, blouse, plain, all, 138, 4.4, 196, 2020).
-peca(1301, heels, blouse, geometric, all, 423, 3.1, 83, 2020).
-peca(1302, business_shirt, shirt, geometric, autumn, 472, 4.7, 84, 2020).
-peca(1303, blouse, shorts, polka_dots, winter, 190, 4.1, 67, 2020).
-peca(1304, business_shirt, shoes, polka_dots, all, 464, 3.6, 95, 2020).
-peca(1305, business_shirt, dress, geometric, spring, 73, 4.2, 130, 2020).
-peca(1306, summer_dress, dress, plain, winter, 53, 4.1, 170, 2020).
-peca(1307, blouse, shorts, geometric, summer, 361, 4.1, 175, 2020).
-peca(1308, chino_shorts, shoes, polka_dots, spring, 195, 4.3, 131, 2020).
-peca(1309, casual_jeans, jeans, polka_dots, spring, 442, 4.2, 88, 2020).
-peca(1310, wool_jacket, skirt, plain, summer, 69, 3.9, 96, 2020).
-peca(1311, business_shirt, skirt, plain, summer, 348, 4.3, 57, 2020).
-peca(1312, pattern_skirt, shoes, polka_dots, summer, 344, 3.3, 143, 2020).
-peca(1313, business_shirt, shirt, geometric, all, 279, 4.8, 81, 2020).
-peca(1314, chino_shorts, blouse, geometric, autumn, 482, 4.2, 181, 2020).
-peca(1315, summer_dress, dress, plain, autumn, 382, 4.7, 119, 2020).
-peca(1316, chino_shorts, jacket, geometric, winter, 135, 4.0, 243, 2020).
-peca(1317, chino_shorts, shorts, geometric, all, 381, 4.5, 188, 2020).
-peca(1318, pattern_skirt, blouse, polka_dots, winter, 221, 3.9, 159, 2020).
-peca(1319, summer_dress, jacket, polka_dots, autumn, 202, 3.5, 86, 2020).
-peca(1320, blouse, shorts, floral, summer, 140, 4.6, 221, 2020).
-peca(1321, beach_shirt, shirt, geometric, spring, 349, 3.8, 108, 2020).
-peca(1322, summer_dress, blouse, floral, spring, 423, 4.4, 197, 2020).
-peca(1323, chino_shorts, jeans, floral, autumn, 351, 4.9, 81, 2020).
-peca(1324, chino_shorts, blouse, geometric, spring, 269, 4.8, 116, 2020).
-peca(1325, pattern_skirt, dress, floral, spring, 230, 3.4, 60, 2020).
-peca(1326, chino_shorts, jeans, plain, winter, 488, 4.0, 83, 2020).
-peca(1327, pattern_skirt, jeans, plain, spring, 172, 5.0, 99, 2020).
-peca(1328, casual_jeans, jeans, floral, all, 50, 3.8, 173, 2020).
-peca(1329, blouse, jeans, floral, autumn, 51, 3.5, 110, 2020).
-peca(1330, wool_jacket, jeans, floral, winter, 206, 3.5, 232, 2020).
-peca(1331, biker_jacket, shirt, geometric, winter, 404, 4.4, 103, 2020).
-peca(1332, summer_dress, blouse, polka_dots, winter, 79, 4.4, 128, 2020).
-peca(1333, heels, shorts, plain, autumn, 371, 3.4, 72, 2020).
-peca(1334, biker_jacket, skirt, geometric, all, 396, 3.1, 200, 2020).
-peca(1335, heels, skirt, polka_dots, winter, 453, 4.2, 162, 2020).
-peca(1336, summer_dress, dress, polka_dots, spring, 137, 3.6, 168, 2020).
-peca(1337, biker_jacket, jacket, geometric, all, 202, 3.9, 171, 2020).
-peca(1338, summer_dress, jeans, polka_dots, winter, 136, 3.2, 106, 2020).
-peca(1339, business_shirt, shirt, geometric, spring, 440, 3.2, 187, 2020).
-peca(1340, heels, dress, plain, spring, 184, 4.3, 153, 2020).
-peca(1341, chino_shorts, jeans, geometric, all, 242, 4.2, 108, 2020).
-peca(1342, business_shirt, jacket, plain, winter, 435, 4.8, 102, 2020).
-peca(1343, casual_jeans, shirt, geometric, summer, 432, 3.2, 243, 2020).
-peca(1344, chino_shorts, blouse, geometric, all, 177, 3.4, 180, 2020).
-peca(1345, wool_jacket, shirt, polka_dots, autumn, 263, 4.2, 132, 2020).
-peca(1346, chino_shorts, dress, geometric, all, 128, 4.3, 210, 2020).
-peca(1347, heels, shorts, polka_dots, autumn, 247, 3.4, 129, 2020).
-peca(1348, chino_shorts, jacket, geometric, autumn, 447, 5.0, 236, 2020).
-peca(1349, pattern_skirt, jeans, plain, winter, 419, 3.5, 245, 2020).
-peca(1350, chino_shorts, jeans, plain, all, 132, 4.1, 180, 2020).
-peca(1351, wool_jacket, shirt, plain, winter, 64, 3.1, 56, 2020).
-peca(1352, wool_jacket, shorts, geometric, all, 148, 4.6, 242, 2020).
-peca(1353, wool_jacket, shirt, polka_dots, autumn, 332, 4.3, 249, 2020).
-peca(1354, casual_jeans, skirt, geometric, all, 440, 4.9, 57, 2020).
-peca(1355, summer_dress, shorts, plain, summer, 172, 3.2, 57, 2020).
-peca(1356, summer_dress, shorts, geometric, summer, 391, 3.2, 191, 2020).
-peca(1357, pattern_skirt, shorts, geometric, spring, 405, 3.5, 141, 2020).
-peca(1358, pattern_skirt, skirt, polka_dots, autumn, 220, 3.9, 77, 2020).
-peca(1359, blouse, shirt, plain, winter, 310, 3.4, 78, 2020).
-peca(1360, beach_shirt, shoes, polka_dots, summer, 259, 4.2, 182, 2020).
-peca(1361, beach_shirt, dress, geometric, summer, 463, 4.4, 59, 2020).
-peca(1362, summer_dress, shorts, geometric, all, 298, 4.3, 204, 2020).
-peca(1363, heels, dress, polka_dots, spring, 76, 3.1, 169, 2020).
-peca(1364, beach_shirt, shoes, plain, autumn, 429, 4.3, 204, 2020).
-peca(1365, wool_jacket, shirt, plain, all, 109, 3.9, 181, 2020).
-peca(1366, heels, shorts, striped, spring, 442, 3.4, 220, 2020).
-peca(1367, pattern_skirt, shirt, striped, all, 319, 4.6, 91, 2020).
-peca(1368, business_shirt, shirt, striped, summer, 201, 4.7, 67, 2020).
-peca(1369, beach_shirt, shoes, striped, all, 497, 3.7, 88, 2020).
-peca(1370, chino_shorts, shirt, striped, winter, 97, 4.6, 94, 2020).
-peca(1371, casual_jeans, blouse, striped, winter, 411, 4.9, 96, 2020).
-peca(1372, biker_jacket, shirt, striped, spring, 220, 4.7, 146, 2020).
-peca(1373, heels, dress, striped, winter, 296, 3.5, 114, 2020).
-peca(1374, blouse, shirt, plain, spring, 499, 3.8, 156, 2020).
-peca(1375, biker_jacket, jacket, plain, summer, 191, 4.6, 205, 2020).
-peca(1376, summer_dress, shoes, geometric, spring, 345, 4.8, 57, 2020).
-peca(1377, biker_jacket, shirt, polka_dots, spring, 62, 3.2, 206, 2020).
-peca(1378, summer_dress, shirt, geometric, spring, 147, 4.3, 186, 2020).
-peca(1379, blouse, dress, polka_dots, all, 176, 4.4, 79, 2020).
-peca(1380, biker_jacket, blouse, polka_dots, spring, 316, 4.8, 88, 2020).
-peca(1381, blouse, jeans, geometric, all, 109, 3.3, 68, 2020).
-peca(1382, pattern_skirt, blouse, geometric, summer, 234, 4.7, 99, 2020).
-peca(1383, chino_shorts, skirt, polka_dots, all, 90, 4.5, 99, 2020).
-peca(1384, chino_shorts, shorts, geometric, spring, 488, 4.2, 141, 2020).
-peca(1385, heels, skirt, geometric, spring, 145, 4.2, 241, 2020).
-peca(1386, summer_dress, skirt, polka_dots, winter, 52, 4.0, 148, 2020).
-peca(1387, summer_dress, skirt, geometric, all, 382, 3.1, 95, 2020).
-peca(1388, business_shirt, skirt, geometric, autumn, 487, 4.0, 246, 2020).
-peca(1389, casual_jeans, blouse, plain, all, 185, 4.4, 152, 2020).
-peca(1390, business_shirt, jacket, plain, summer, 134, 4.8, 227, 2020).
-peca(1391, chino_shorts, dress, geometric, all, 108, 4.9, 226, 2020).
-peca(1392, chino_shorts, jeans, plain, winter, 457, 3.7, 119, 2020).
-peca(1393, wool_jacket, jacket, geometric, summer, 346, 3.7, 244, 2020).
-peca(1394, blouse, blouse, geometric, winter, 301, 4.1, 242, 2020).
-peca(1395, blouse, shirt, plain, summer, 257, 4.9, 65, 2020).
-peca(1396, wool_jacket, shorts, plain, autumn, 233, 3.0, 218, 2020).
-peca(1397, heels, dress, polka_dots, spring, 387, 4.2, 143, 2021).
-peca(1398, summer_dress, shorts, polka_dots, winter, 242, 4.2, 110, 2021).
-peca(1399, wool_jacket, shoes, plain, winter, 57, 4.5, 178, 2021).
-peca(1400, blouse, dress, plain, spring, 125, 4.5, 160, 2021).
-peca(1401, blouse, jacket, geometric, all, 127, 4.1, 52, 2021).
-peca(1402, chino_shorts, shorts, polka_dots, all, 233, 3.3, 64, 2021).
-peca(1403, business_shirt, skirt, plain, spring, 215, 4.5, 242, 2021).
-peca(1404, business_shirt, skirt, plain, summer, 178, 4.5, 145, 2021).
-peca(1405, chino_shorts, blouse, plain, autumn, 144, 3.1, 100, 2021).
-peca(1406, beach_shirt, blouse, plain, all, 297, 4.7, 160, 2021).
-peca(1407, summer_dress, skirt, geometric, autumn, 69, 4.0, 209, 2021).
-peca(1408, wool_jacket, shorts, heart, spring, 64, 3.4, 69, 2021).
-peca(1409, beach_shirt, jacket, heart, winter, 500, 4.1, 125, 2021).
-peca(1410, summer_dress, blouse, plain, summer, 369, 4.3, 244, 2021).
-peca(1411, blouse, shorts, polka_dots, spring, 471, 3.9, 90, 2021).
-peca(1412, pattern_skirt, shoes, plain, all, 232, 3.6, 206, 2021).
-peca(1413, beach_shirt, dress, polka_dots, summer, 89, 3.9, 134, 2021).
-peca(1414, beach_shirt, blouse, heart, all, 249, 5.0, 132, 2021).
-peca(1415, wool_jacket, dress, heart, winter, 337, 3.8, 203, 2021).
-peca(1416, pattern_skirt, shoes, plain, all, 352, 4.5, 83, 2021).
-peca(1417, casual_jeans, shorts, heart, winter, 167, 3.7, 168, 2021).
-peca(1418, heels, skirt, plain, winter, 430, 3.6, 222, 2021).
-peca(1419, summer_dress, skirt, plain, autumn, 239, 4.0, 162, 2021).
-peca(1420, summer_dress, jacket, geometric, summer, 140, 3.9, 205, 2021).
-peca(1421, beach_shirt, jacket, polka_dots, all, 417, 4.3, 150, 2021).
-peca(1422, chino_shorts, shoes, polka_dots, summer, 209, 4.2, 210, 2021).
-peca(1423, business_shirt, dress, geometric, autumn, 184, 4.5, 139, 2021).
-peca(1424, beach_shirt, jacket, polka_dots, autumn, 329, 4.1, 239, 2021).
-peca(1425, blouse, shirt, geometric, autumn, 486, 5.0, 223, 2021).
-peca(1426, casual_jeans, shoes, polka_dots, summer, 296, 3.2, 118, 2021).
-peca(1427, blouse, shirt, plain, summer, 321, 4.5, 194, 2021).
-peca(1428, business_shirt, skirt, plain, spring, 471, 3.1, 204, 2021).
-peca(1429, biker_jacket, skirt, plain, spring, 291, 3.4, 100, 2021).
-peca(1430, beach_shirt, skirt, geometric, autumn, 429, 4.1, 54, 2021).
-peca(1431, biker_jacket, blouse, geometric, all, 93, 4.2, 173, 2021).
-peca(1432, chino_shorts, blouse, plain, autumn, 463, 3.3, 90, 2021).
-peca(1433, summer_dress, shoes, plain, all, 106, 4.9, 136, 2021).
-peca(1434, beach_shirt, shoes, geometric, spring, 79, 3.8, 216, 2021).
-peca(1435, biker_jacket, blouse, polka_dots, spring, 500, 4.9, 159, 2021).
-peca(1436, summer_dress, skirt, plain, winter, 247, 3.6, 236, 2021).
-peca(1437, casual_jeans, blouse, plain, summer, 127, 4.6, 92, 2021).
-peca(1438, pattern_skirt, shoes, plain, spring, 453, 4.8, 179, 2021).
-peca(1439, summer_dress, blouse, geometric, spring, 89, 4.2, 151, 2021).
-peca(1440, wool_jacket, jacket, plain, all, 149, 3.3, 186, 2021).
-peca(1441, summer_dress, shorts, polka_dots, summer, 124, 4.2, 160, 2021).
-peca(1442, business_shirt, shoes, polka_dots, all, 220, 4.4, 91, 2021).
-peca(1443, blouse, dress, polka_dots, winter, 258, 3.3, 136, 2021).
-peca(1444, beach_shirt, jeans, geometric, autumn, 214, 4.7, 161, 2021).
-peca(1445, casual_jeans, skirt, geometric, summer, 342, 3.7, 99, 2021).
-peca(1446, chino_shorts, jacket, plain, autumn, 218, 4.5, 246, 2021).
-peca(1447, business_shirt, skirt, plain, all, 126, 3.6, 236, 2021).
-peca(1448, casual_jeans, shoes, polka_dots, summer, 165, 3.3, 195, 2021).
-peca(1449, business_shirt, dress, plain, winter, 257, 3.3, 88, 2021).
-peca(1450, summer_dress, shirt, polka_dots, winter, 295, 3.6, 138, 2021).
-peca(1451, pattern_skirt, shoes, polka_dots, autumn, 409, 4.9, 116, 2021).
-peca(1452, wool_jacket, jeans, geometric, spring, 281, 4.4, 200, 2021).
-peca(1453, summer_dress, jeans, geometric, autumn, 269, 4.9, 116, 2021).
-peca(1454, blouse, jeans, geometric, summer, 111, 5.0, 161, 2021).
-peca(1455, blouse, skirt, floral, summer, 52, 3.0, 206, 2021).
-peca(1456, casual_jeans, dress, geometric, summer, 126, 3.1, 172, 2021).
-peca(1457, wool_jacket, shorts, geometric, winter, 62, 3.4, 83, 2021).
-peca(1458, wool_jacket, dress, floral, spring, 207, 3.9, 174, 2021).
-peca(1459, beach_shirt, shirt, plain, winter, 386, 3.5, 71, 2021).
-peca(1460, casual_jeans, shoes, plain, winter, 182, 3.5, 196, 2021).
-peca(1461, wool_jacket, dress, plain, autumn, 74, 4.4, 187, 2021).
-peca(1462, heels, blouse, plain, all, 278, 3.8, 190, 2021).
-peca(1463, summer_dress, jacket, polka_dots, winter, 86, 3.9, 156, 2021).
-peca(1464, beach_shirt, skirt, geometric, summer, 382, 4.4, 124, 2021).
-peca(1465, pattern_skirt, skirt, polka_dots, spring, 329, 3.4, 116, 2021).
-peca(1466, pattern_skirt, jacket, plain, all, 350, 3.7, 239, 2021).
-peca(1467, casual_jeans, jacket, geometric, summer, 246, 3.8, 83, 2021).
-peca(1468, wool_jacket, shirt, plain, all, 442, 4.3, 188, 2021).
-peca(1469, wool_jacket, shoes, plain, all, 196, 4.5, 193, 2021).
-peca(1470, beach_shirt, skirt, polka_dots, autumn, 389, 4.8, 138, 2021).
-peca(1471, pattern_skirt, shirt, polka_dots, all, 494, 4.7, 51, 2021).
-peca(1472, casual_jeans, blouse, geometric, all, 69, 4.3, 100, 2021).
-peca(1473, summer_dress, shirt, polka_dots, autumn, 127, 3.9, 157, 2021).
-peca(1474, heels, jacket, geometric, all, 488, 3.9, 63, 2021).
-peca(1475, biker_jacket, blouse, plain, spring, 120, 4.5, 215, 2021).
-peca(1476, casual_jeans, skirt, plain, all, 110, 3.7, 166, 2021).
-peca(1477, biker_jacket, dress, plain, summer, 272, 4.5, 229, 2021).
-peca(1478, beach_shirt, blouse, geometric, all, 476, 3.6, 168, 2021).
-peca(1479, casual_jeans, shorts, polka_dots, autumn, 465, 4.6, 234, 2021).
-peca(1480, business_shirt, jeans, plain, autumn, 178, 3.9, 132, 2021).
-peca(1481, business_shirt, shoes, geometric, summer, 350, 5.0, 129, 2021).
-peca(1482, biker_jacket, shorts, polka_dots, all, 295, 4.8, 235, 2021).
-peca(1483, wool_jacket, jacket, geometric, winter, 279, 4.3, 214, 2021).
-peca(1484, chino_shorts, skirt, polka_dots, summer, 99, 4.8, 50, 2021).
-peca(1485, beach_shirt, shoes, geometric, autumn, 473, 3.9, 193, 2021).
-peca(1486, casual_jeans, shoes, geometric, winter, 218, 3.7, 210, 2021).
-peca(1487, blouse, blouse, plain, autumn, 145, 4.9, 73, 2021).
-peca(1488, beach_shirt, blouse, geometric, winter, 299, 3.7, 224, 2021).
-peca(1489, blouse, jacket, polka_dots, summer, 354, 4.3, 141, 2021).
-peca(1490, blouse, shirt, plain, autumn, 86, 4.6, 164, 2021).
-peca(1491, wool_jacket, jeans, plain, autumn, 232, 4.5, 187, 2021).
-peca(1492, blouse, shorts, plain, summer, 50, 4.9, 238, 2021).
-peca(1493, chino_shorts, dress, plain, spring, 456, 3.9, 52, 2021).
-peca(1494, casual_jeans, jeans, geometric, summer, 280, 4.0, 93, 2021).
-peca(1495, beach_shirt, dress, polka_dots, all, 289, 3.6, 212, 2021).
-peca(1496, beach_shirt, shoes, striped, summer, 442, 4.2, 145, 2021).
-peca(1497, business_shirt, shorts, plain, all, 407, 3.7, 157, 2021).
-peca(1498, chino_shorts, blouse, striped, summer, 118, 4.0, 130, 2021).
-peca(1499, business_shirt, jacket, plain, summer, 139, 4.1, 96, 2021).
-peca(1500, heels, shoes, plain, winter, 242, 3.3, 219, 2021).
-peca(1501, business_shirt, skirt, striped, autumn, 362, 4.2, 65, 2021).
-peca(1502, biker_jacket, blouse, plain, winter, 135, 3.2, 119, 2021).
-peca(1503, casual_jeans, shirt, striped, summer, 405, 4.7, 76, 2021).
-peca(1504, chino_shorts, skirt, striped, all, 264, 3.1, 147, 2021).
-peca(1505, pattern_skirt, shorts, plain, winter, 232, 4.7, 97, 2021).
-peca(1506, summer_dress, skirt, plain, all, 388, 3.7, 194, 2021).
-peca(1507, beach_shirt, jacket, polka_dots, autumn, 70, 4.5, 221, 2021).
-peca(1508, casual_jeans, jacket, polka_dots, winter, 389, 4.1, 195, 2021).
-peca(1509, beach_shirt, dress, geometric, all, 312, 3.3, 50, 2021).
-peca(1510, biker_jacket, jeans, plain, winter, 318, 3.6, 218, 2021).
-peca(1511, beach_shirt, blouse, polka_dots, all, 252, 4.6, 159, 2021).
-peca(1512, blouse, jeans, geometric, summer, 483, 4.8, 164, 2021).
-peca(1513, pattern_skirt, shirt, plain, all, 434, 3.8, 231, 2021).
-peca(1514, chino_shorts, blouse, plain, all, 132, 4.2, 89, 2021).
-peca(1515, beach_shirt, jacket, geometric, summer, 55, 4.1, 231, 2021).
-peca(1516, beach_shirt, jacket, polka_dots, all, 396, 4.2, 197, 2021).
-peca(1517, heels, dress, polka_dots, summer, 465, 4.6, 167, 2021).
-peca(1518, blouse, dress, polka_dots, winter, 222, 3.9, 96, 2021).
-peca(1519, pattern_skirt, blouse, polka_dots, all, 300, 4.3, 241, 2021).
-peca(1520, casual_jeans, jacket, plain, all, 153, 4.1, 103, 2021).
-peca(1521, chino_shorts, shirt, plain, spring, 279, 4.5, 239, 2021).
-peca(1522, casual_jeans, jacket, plain, all, 214, 3.4, 94, 2021).
-peca(1523, beach_shirt, skirt, plain, summer, 394, 4.1, 82, 2021).
-peca(1524, heels, dress, polka_dots, all, 371, 4.5, 149, 2021).
-peca(1525, biker_jacket, skirt, geometric, spring, 205, 3.3, 66, 2021).
-peca(1526, business_shirt, shorts, plain, autumn, 312, 3.8, 73, 2021).
-peca(1527, wool_jacket, jacket, plain, all, 286, 3.3, 153, 2021).
-peca(1528, casual_jeans, jeans, geometric, autumn, 157, 3.1, 243, 2021).
-peca(1529, beach_shirt, shoes, plain, spring, 182, 3.8, 128, 2022).
-peca(1530, casual_jeans, jacket, polka_dots, summer, 325, 3.6, 242, 2022).
-peca(1531, casual_jeans, shorts, plain, all, 252, 3.5, 125, 2022).
-peca(1532, heels, dress, polka_dots, autumn, 52, 3.6, 234, 2022).
-peca(1533, casual_jeans, shoes, plain, spring, 295, 4.6, 245, 2022).
-peca(1534, beach_shirt, jacket, geometric, spring, 162, 3.8, 186, 2022).
-peca(1535, biker_jacket, dress, geometric, all, 91, 4.9, 209, 2022).
-peca(1536, heels, dress, plain, autumn, 427, 3.1, 167, 2022).
-peca(1537, blouse, shirt, polka_dots, summer, 491, 3.4, 60, 2022).
-peca(1538, wool_jacket, dress, geometric, all, 408, 4.3, 141, 2022).
-peca(1539, summer_dress, dress, geometric, spring, 233, 4.9, 143, 2022).
-peca(1540, casual_jeans, skirt, polka_dots, autumn, 334, 3.3, 177, 2022).
-peca(1541, summer_dress, shoes, polka_dots, spring, 197, 4.9, 207, 2022).
-peca(1542, pattern_skirt, shirt, polka_dots, all, 442, 3.7, 172, 2022).
-peca(1543, wool_jacket, skirt, polka_dots, autumn, 190, 4.6, 250, 2022).
-peca(1544, heels, blouse, plain, all, 65, 4.1, 158, 2022).
-peca(1545, pattern_skirt, shorts, polka_dots, winter, 113, 3.3, 124, 2022).
-peca(1546, chino_shorts, blouse, heart, spring, 407, 4.1, 212, 2022).
-peca(1547, beach_shirt, blouse, plain, winter, 69, 3.7, 167, 2022).
-peca(1548, beach_shirt, jacket, polka_dots, all, 239, 3.1, 133, 2022).
-peca(1549, pattern_skirt, blouse, polka_dots, autumn, 209, 4.9, 159, 2022).
-peca(1550, chino_shorts, dress, heart, all, 438, 3.3, 160, 2022).
-peca(1551, pattern_skirt, shorts, geometric, summer, 383, 3.6, 244, 2022).
-peca(1552, business_shirt, shorts, polka_dots, winter, 371, 3.0, 153, 2022).
-peca(1553, heels, skirt, plain, autumn, 481, 3.9, 145, 2022).
-peca(1554, heels, shorts, geometric, spring, 63, 4.9, 237, 2022).
-peca(1555, heels, shoes, geometric, summer, 141, 3.1, 149, 2022).
-peca(1556, chino_shorts, shorts, polka_dots, spring, 241, 4.7, 140, 2022).
-peca(1557, beach_shirt, shorts, polka_dots, autumn, 191, 3.3, 175, 2022).
-peca(1558, casual_jeans, shoes, polka_dots, summer, 212, 4.0, 94, 2022).
-peca(1559, chino_shorts, dress, polka_dots, all, 488, 3.5, 151, 2022).
-peca(1560, pattern_skirt, shorts, geometric, autumn, 306, 3.2, 109, 2022).
-peca(1561, business_shirt, dress, polka_dots, winter, 86, 4.9, 229, 2022).
-peca(1562, wool_jacket, jeans, plain, spring, 489, 3.7, 138, 2022).
-peca(1563, beach_shirt, jeans, plain, spring, 327, 4.8, 228, 2022).
-peca(1564, heels, dress, polka_dots, winter, 490, 3.0, 84, 2022).
-peca(1565, beach_shirt, blouse, plain, autumn, 74, 3.8, 121, 2022).
-peca(1566, pattern_skirt, blouse, geometric, spring, 278, 5.0, 87, 2022).
-peca(1567, summer_dress, shirt, geometric, spring, 159, 3.5, 119, 2022).
-peca(1568, pattern_skirt, shirt, plain, summer, 471, 3.8, 211, 2022).
-peca(1569, beach_shirt, shorts, geometric, autumn, 98, 4.2, 218, 2022).
-peca(1570, heels, blouse, geometric, summer, 59, 3.7, 144, 2022).
-peca(1571, heels, jeans, polka_dots, summer, 462, 4.8, 50, 2022).
-peca(1572, blouse, skirt, polka_dots, all, 52, 3.6, 101, 2022).
-peca(1573, beach_shirt, shoes, polka_dots, autumn, 144, 3.2, 218, 2022).
-peca(1574, pattern_skirt, skirt, plain, autumn, 282, 4.7, 169, 2022).
-peca(1575, blouse, shirt, geometric, all, 421, 4.9, 96, 2022).
-peca(1576, biker_jacket, skirt, plain, all, 494, 3.2, 56, 2022).
-peca(1577, biker_jacket, dress, polka_dots, winter, 178, 4.5, 226, 2022).
-peca(1578, wool_jacket, blouse, plain, all, 64, 4.0, 239, 2022).
-peca(1579, chino_shorts, shirt, polka_dots, autumn, 249, 4.9, 242, 2022).
-peca(1580, blouse, skirt, geometric, autumn, 79, 4.0, 237, 2022).
-peca(1581, biker_jacket, dress, polka_dots, autumn, 349, 4.9, 139, 2022).
-peca(1582, casual_jeans, jacket, geometric, spring, 69, 3.6, 183, 2022).
-peca(1583, wool_jacket, shoes, geometric, spring, 245, 3.9, 107, 2022).
-peca(1584, beach_shirt, blouse, floral, spring, 161, 3.6, 143, 2022).
-peca(1585, summer_dress, skirt, plain, all, 279, 3.0, 130, 2022).
-peca(1586, blouse, shorts, plain, all, 452, 3.8, 102, 2022).
-peca(1587, summer_dress, dress, plain, all, 98, 3.7, 241, 2022).
-peca(1588, heels, shoes, floral, autumn, 486, 3.6, 244, 2022).
-peca(1589, biker_jacket, blouse, geometric, spring, 214, 3.4, 247, 2022).
-peca(1590, summer_dress, shorts, plain, autumn, 255, 4.6, 239, 2022).
-peca(1591, casual_jeans, jeans, plain, all, 181, 4.6, 84, 2022).
-peca(1592, casual_jeans, skirt, geometric, summer, 402, 3.8, 69, 2022).
-peca(1593, wool_jacket, shoes, geometric, autumn, 266, 3.2, 137, 2022).
-peca(1594, wool_jacket, dress, floral, autumn, 375, 4.3, 184, 2022).
-peca(1595, casual_jeans, jeans, geometric, spring, 381, 3.6, 221, 2022).
-peca(1596, beach_shirt, shorts, plain, winter, 245, 3.9, 138, 2022).
-peca(1597, chino_shorts, blouse, plain, autumn, 370, 3.5, 124, 2022).
-peca(1598, casual_jeans, jeans, geometric, autumn, 81, 4.4, 239, 2022).
-peca(1599, heels, jacket, polka_dots, autumn, 361, 4.1, 128, 2022).
-peca(1600, heels, shorts, geometric, summer, 200, 3.7, 98, 2022).
-peca(1601, blouse, skirt, plain, autumn, 77, 3.3, 168, 2022).
-peca(1602, business_shirt, jeans, geometric, all, 428, 4.6, 173, 2022).
-peca(1603, blouse, shirt, plain, winter, 344, 4.8, 131, 2022).
-peca(1604, blouse, shorts, geometric, spring, 221, 4.9, 197, 2022).
-peca(1605, wool_jacket, jacket, plain, winter, 303, 4.1, 169, 2022).
-peca(1606, pattern_skirt, blouse, plain, all, 159, 4.4, 174, 2022).
-peca(1607, wool_jacket, blouse, plain, autumn, 394, 3.1, 122, 2022).
-peca(1608, blouse, dress, plain, spring, 427, 4.5, 63, 2022).
-peca(1609, pattern_skirt, shorts, polka_dots, winter, 239, 4.1, 85, 2022).
-peca(1610, chino_shorts, jacket, polka_dots, winter, 59, 4.3, 73, 2022).
-peca(1611, beach_shirt, shoes, plain, spring, 59, 4.5, 215, 2022).
-peca(1612, biker_jacket, shirt, polka_dots, spring, 193, 3.7, 74, 2022).
-peca(1613, beach_shirt, skirt, geometric, all, 112, 3.1, 92, 2022).
-peca(1614, pattern_skirt, jeans, polka_dots, summer, 371, 4.6, 116, 2022).
-peca(1615, wool_jacket, shirt, plain, all, 53, 3.9, 217, 2022).
-peca(1616, biker_jacket, skirt, plain, summer, 286, 3.0, 96, 2022).
-peca(1617, blouse, shoes, geometric, all, 331, 4.5, 233, 2022).
-peca(1618, blouse, jeans, polka_dots, autumn, 353, 3.5, 212, 2022).
-peca(1619, business_shirt, shorts, plain, winter, 333, 3.4, 234, 2022).
-peca(1620, beach_shirt, jeans, polka_dots, winter, 86, 3.8, 54, 2022).
-peca(1621, chino_shorts, dress, geometric, winter, 347, 3.2, 58, 2022).
-peca(1622, business_shirt, dress, plain, summer, 146, 3.2, 62, 2022).
-peca(1623, summer_dress, skirt, polka_dots, winter, 172, 4.6, 154, 2022).
-peca(1624, wool_jacket, jeans, polka_dots, spring, 259, 4.3, 231, 2022).
-peca(1625, summer_dress, shoes, plain, spring, 155, 3.8, 194, 2022).
-peca(1626, casual_jeans, jeans, polka_dots, spring, 303, 4.0, 68, 2022).
-peca(1627, chino_shorts, skirt, geometric, autumn, 70, 4.3, 65, 2022).
-peca(1628, wool_jacket, jacket, plain, spring, 491, 4.3, 80, 2022).
-peca(1629, business_shirt, blouse, striped, autumn, 308, 3.0, 169, 2022).
-peca(1630, chino_shorts, skirt, striped, summer, 435, 4.0, 81, 2022).
-peca(1631, heels, blouse, striped, spring, 340, 4.5, 136, 2022).
-peca(1632, summer_dress, jacket, striped, summer, 122, 4.7, 186, 2022).
-peca(1633, beach_shirt, jeans, striped, winter, 313, 3.7, 99, 2022).
-peca(1634, wool_jacket, shorts, plain, spring, 105, 4.2, 153, 2022).
-peca(1635, pattern_skirt, skirt, plain, summer, 65, 4.9, 161, 2022).
-peca(1636, blouse, shirt, plain, all, 218, 3.7, 242, 2022).
-peca(1637, casual_jeans, jacket, striped, spring, 472, 4.1, 162, 2022).
-peca(1638, wool_jacket, shirt, striped, winter, 145, 3.5, 98, 2022).
-peca(1639, beach_shirt, skirt, polka_dots, autumn, 190, 3.3, 108, 2022).
-peca(1640, casual_jeans, jeans, plain, all, 471, 3.7, 126, 2022).
-peca(1641, business_shirt, shoes, polka_dots, autumn, 412, 3.6, 72, 2022).
-peca(1642, biker_jacket, jacket, geometric, winter, 256, 3.3, 186, 2022).
-peca(1643, biker_jacket, shorts, plain, winter, 233, 4.4, 55, 2022).
-peca(1644, pattern_skirt, jeans, geometric, spring, 418, 3.7, 70, 2022).
-peca(1645, beach_shirt, skirt, polka_dots, all, 203, 4.8, 215, 2022).
-peca(1646, wool_jacket, jacket, polka_dots, spring, 434, 3.2, 178, 2022).
-peca(1647, chino_shorts, shirt, geometric, summer, 88, 4.5, 114, 2022).
-peca(1648, blouse, skirt, geometric, summer, 144, 3.2, 51, 2022).
-peca(1649, blouse, jeans, plain, all, 321, 3.1, 150, 2022).
-peca(1650, blouse, jeans, geometric, spring, 482, 5.0, 177, 2022).
-peca(1651, business_shirt, shirt, geometric, all, 338, 3.5, 237, 2022).
-peca(1652, heels, shoes, polka_dots, all, 431, 3.6, 196, 2022).
-peca(1653, beach_shirt, shirt, plain, summer, 252, 4.4, 171, 2022).
-peca(1654, heels, jeans, geometric, summer, 467, 4.2, 248, 2022).
-peca(1655, biker_jacket, blouse, geometric, spring, 176, 3.8, 103, 2022).
-peca(1656, wool_jacket, jacket, geometric, summer, 328, 5.0, 127, 2022).
-peca(1657, summer_dress, dress, plain, winter, 200, 4.7, 86, 2022).
-peca(1658, blouse, shoes, geometric, autumn, 478, 4.0, 111, 2022).
-peca(1659, biker_jacket, shirt, polka_dots, winter, 125, 4.8, 127, 2022).
-peca(1660, casual_jeans, shirt, geometric, spring, 215, 3.6, 205, 2022).
+peca(1001, biker_jacket, shirt, geometric, 25_35, spring, 75, 4.9, 211, 2018).
+peca(1002, business_shirt, jacket, polka_dots, 18_24, summer, 296, 3.5, 211, 2018).
+peca(1003, wool_jacket, dress, geometric, 18_24, all, 50, 4.3, 64, 2018).
+peca(1004, summer_dress, shorts, plain, 25_35, all, 435, 4.6, 171, 2018).
+peca(1005, casual_jeans, shirt, plain, 35_45, winter, 79, 3.6, 126, 2018).
+peca(1006, business_shirt, shirt, plain, 35_45, spring, 332, 4.7, 136, 2018).
+peca(1007, casual_jeans, blouse, plain, 25_35, all, 100, 4.0, 170, 2018).
+peca(1008, heels, shoes, geometric, 25_35, autumn, 333, 3.2, 128, 2018).
+peca(1009, beach_shirt, shirt, polka_dots, 35_45, all, 424, 3.5, 193, 2018).
+peca(1010, pattern_skirt, jeans, plain, 35_45, summer, 335, 4.1, 248, 2018).
+peca(1011, business_shirt, dress, plain, 25_35, all, 304, 3.7, 213, 2018).
+peca(1012, blouse, jacket, plain, 18_24, spring, 62, 4.6, 73, 2018).
+peca(1013, chino_shorts, jeans, heart, 25_35, autumn, 352, 4.4, 181, 2018).
+peca(1014, pattern_skirt, jeans, heart, 18_24, winter, 461, 4.0, 88, 2018).
+peca(1015, blouse, shorts, plain, 35_45, spring, 265, 3.7, 130, 2018).
+peca(1016, blouse, jeans, polka_dots, 35_45, all, 146, 4.6, 181, 2018).
+peca(1017, pattern_skirt, shorts, heart, 18_24, winter, 296, 3.0, 84, 2018).
+peca(1018, summer_dress, skirt, plain, 18_24, summer, 247, 3.3, 149, 2018).
+peca(1019, casual_jeans, shorts, heart, 18_24, summer, 437, 4.8, 153, 2018).
+peca(1020, pattern_skirt, skirt, polka_dots, 35_45, spring, 356, 3.8, 139, 2018).
+peca(1021, blouse, skirt, plain, 35_45, all, 451, 3.6, 54, 2018).
+peca(1022, blouse, jeans, polka_dots, 18_24, summer, 189, 3.9, 104, 2018).
+peca(1023, heels, shoes, geometric, 25_35, autumn, 426, 4.2, 170, 2018).
+peca(1024, pattern_skirt, shoes, geometric, 18_24, summer, 377, 4.8, 186, 2018).
+peca(1025, blouse, dress, polka_dots, 25_35, winter, 198, 3.8, 149, 2018).
+peca(1026, casual_jeans, shorts, polka_dots, 18_24, summer, 405, 3.2, 101, 2018).
+peca(1027, summer_dress, jeans, geometric, 35_45, autumn, 177, 4.6, 196, 2018).
+peca(1028, business_shirt, shorts, polka_dots, 35_45, autumn, 234, 4.1, 120, 2018).
+peca(1029, summer_dress, skirt, geometric, 18_24, all, 78, 3.2, 195, 2018).
+peca(1030, casual_jeans, dress, polka_dots, 35_45, summer, 244, 3.9, 116, 2018).
+peca(1031, blouse, shorts, geometric, 35_45, winter, 381, 4.0, 181, 2018).
+peca(1032, biker_jacket, shirt, geometric, 18_24, all, 142, 4.5, 64, 2018).
+peca(1033, beach_shirt, blouse, plain, 35_45, all, 78, 3.3, 212, 2018).
+peca(1034, blouse, skirt, geometric, 18_24, autumn, 168, 3.6, 212, 2018).
+peca(1035, wool_jacket, skirt, plain, 25_35, autumn, 87, 4.3, 247, 2018).
+peca(1036, casual_jeans, jeans, geometric, 35_45, summer, 123, 3.1, 82, 2018).
+peca(1037, pattern_skirt, dress, plain, 18_24, spring, 466, 4.7, 95, 2018).
+peca(1038, beach_shirt, blouse, geometric, 35_45, all, 205, 4.2, 190, 2018).
+peca(1039, heels, shirt, polka_dots, 18_24, autumn, 360, 3.1, 136, 2018).
+peca(1040, summer_dress, shorts, geometric, 18_24, summer, 138, 3.6, 142, 2018).
+peca(1041, beach_shirt, shoes, polka_dots, 25_35, winter, 160, 4.0, 140, 2018).
+peca(1042, biker_jacket, blouse, geometric, 25_35, winter, 217, 4.6, 155, 2018).
+peca(1043, biker_jacket, jacket, polka_dots, 35_45, autumn, 457, 3.0, 93, 2018).
+peca(1044, beach_shirt, jeans, plain, 25_35, winter, 424, 4.4, 231, 2018).
+peca(1045, blouse, jacket, plain, 35_45, summer, 453, 3.4, 82, 2018).
+peca(1046, heels, jacket, plain, 18_24, autumn, 189, 3.3, 198, 2018).
+peca(1047, beach_shirt, dress, plain, 18_24, winter, 180, 3.5, 171, 2018).
+peca(1048, biker_jacket, blouse, plain, 25_35, winter, 54, 4.2, 65, 2018).
+peca(1049, chino_shorts, shorts, geometric, 25_35, spring, 170, 4.5, 241, 2018).
+peca(1050, chino_shorts, blouse, geometric, 35_45, spring, 495, 4.1, 188, 2018).
+peca(1051, business_shirt, dress, geometric, 18_24, autumn, 380, 3.7, 154, 2018).
+peca(1052, business_shirt, jacket, geometric, 18_24, summer, 359, 3.1, 208, 2018).
+peca(1053, pattern_skirt, shirt, plain, 18_24, autumn, 257, 3.7, 74, 2018).
+peca(1054, chino_shorts, jeans, geometric, 35_45, winter, 484, 4.1, 157, 2018).
+peca(1055, beach_shirt, jacket, geometric, 25_35, winter, 265, 3.6, 230, 2018).
+peca(1056, summer_dress, shorts, geometric, 25_35, winter, 479, 4.9, 98, 2018).
+peca(1057, pattern_skirt, skirt, plain, 25_35, winter, 357, 3.1, 132, 2018).
+peca(1058, beach_shirt, jacket, plain, 18_24, summer, 304, 4.7, 156, 2018).
+peca(1059, casual_jeans, jacket, geometric, 25_35, winter, 149, 4.6, 247, 2018).
+peca(1060, biker_jacket, blouse, plain, 25_35, spring, 373, 3.4, 228, 2018).
+peca(1061, blouse, shirt, geometric, 35_45, autumn, 148, 4.4, 218, 2018).
+peca(1062, biker_jacket, dress, geometric, 18_24, winter, 238, 3.8, 182, 2018).
+peca(1063, business_shirt, jacket, geometric, 35_45, all, 463, 3.8, 160, 2018).
+peca(1064, heels, shirt, floral, 18_24, autumn, 381, 4.6, 105, 2018).
+peca(1065, pattern_skirt, shorts, geometric, 25_35, summer, 187, 3.1, 96, 2018).
+peca(1066, biker_jacket, blouse, plain, 35_45, spring, 123, 3.7, 127, 2018).
+peca(1067, casual_jeans, blouse, polka_dots, 18_24, all, 492, 4.7, 229, 2018).
+peca(1068, business_shirt, skirt, geometric, 35_45, winter, 79, 3.4, 179, 2018).
+peca(1069, biker_jacket, blouse, geometric, 35_45, winter, 244, 4.7, 67, 2018).
+peca(1070, beach_shirt, dress, polka_dots, 35_45, winter, 324, 4.7, 235, 2018).
+peca(1071, chino_shorts, jacket, geometric, 25_35, summer, 132, 4.2, 221, 2018).
+peca(1072, summer_dress, jeans, geometric, 25_35, winter, 326, 3.6, 54, 2018).
+peca(1073, chino_shorts, shirt, geometric, 25_35, all, 125, 3.6, 211, 2018).
+peca(1074, wool_jacket, shoes, plain, 35_45, summer, 165, 3.5, 250, 2018).
+peca(1075, biker_jacket, jacket, geometric, 18_24, winter, 326, 3.8, 207, 2018).
+peca(1076, wool_jacket, shoes, polka_dots, 35_45, summer, 161, 3.4, 218, 2018).
+peca(1077, casual_jeans, blouse, plain, 35_45, spring, 264, 4.5, 183, 2018).
+peca(1078, biker_jacket, shoes, plain, 25_35, all, 284, 3.7, 221, 2018).
+peca(1079, heels, skirt, polka_dots, 35_45, winter, 147, 3.3, 205, 2018).
+peca(1080, summer_dress, skirt, polka_dots, 18_24, spring, 301, 3.3, 147, 2018).
+peca(1081, wool_jacket, skirt, geometric, 35_45, spring, 227, 4.4, 227, 2018).
+peca(1082, blouse, dress, plain, 25_35, all, 91, 4.4, 225, 2018).
+peca(1083, summer_dress, shorts, geometric, 35_45, winter, 268, 3.2, 239, 2018).
+peca(1084, blouse, blouse, polka_dots, 35_45, spring, 323, 4.7, 233, 2018).
+peca(1085, blouse, shoes, plain, 25_35, all, 427, 4.0, 66, 2018).
+peca(1086, summer_dress, jeans, geometric, 18_24, summer, 456, 4.5, 204, 2018).
+peca(1087, chino_shorts, shoes, geometric, 25_35, all, 200, 3.4, 185, 2018).
+peca(1088, summer_dress, blouse, plain, 35_45, spring, 170, 4.1, 152, 2018).
+peca(1089, wool_jacket, blouse, plain, 25_35, spring, 420, 3.7, 91, 2018).
+peca(1090, heels, skirt, plain, 35_45, winter, 100, 3.7, 125, 2018).
+peca(1091, wool_jacket, shirt, plain, 25_35, spring, 126, 4.5, 58, 2018).
+peca(1092, summer_dress, shirt, polka_dots, 18_24, spring, 107, 4.8, 88, 2018).
+peca(1093, business_shirt, blouse, polka_dots, 18_24, winter, 176, 4.2, 203, 2018).
+peca(1094, casual_jeans, skirt, polka_dots, 25_35, all, 486, 3.7, 178, 2018).
+peca(1095, pattern_skirt, shoes, polka_dots, 18_24, all, 86, 3.1, 95, 2018).
+peca(1096, wool_jacket, blouse, polka_dots, 35_45, winter, 288, 3.9, 87, 2018).
+peca(1097, biker_jacket, shirt, geometric, 35_45, winter, 200, 3.9, 121, 2018).
+peca(1098, blouse, dress, polka_dots, 18_24, summer, 73, 3.9, 227, 2018).
+peca(1099, wool_jacket, jeans, plain, 18_24, summer, 225, 4.1, 198, 2018).
+peca(1100, casual_jeans, skirt, striped, 35_45, summer, 418, 3.5, 144, 2018).
+peca(1101, heels, skirt, striped, 25_35, summer, 195, 3.7, 215, 2018).
+peca(1102, blouse, shoes, striped, 18_24, all, 396, 3.6, 238, 2018).
+peca(1103, heels, dress, striped, 25_35, summer, 388, 3.7, 247, 2018).
+peca(1104, wool_jacket, skirt, striped, 35_45, all, 184, 3.4, 141, 2018).
+peca(1105, beach_shirt, shorts, plain, 35_45, spring, 476, 3.7, 158, 2018).
+peca(1106, chino_shorts, jeans, striped, 18_24, all, 273, 4.3, 248, 2018).
+peca(1107, beach_shirt, shorts, striped, 35_45, summer, 354, 3.0, 238, 2018).
+peca(1108, beach_shirt, blouse, striped, 18_24, all, 462, 3.8, 169, 2018).
+peca(1109, business_shirt, shirt, striped, 25_35, winter, 248, 4.7, 83, 2018).
+peca(1110, summer_dress, skirt, striped, 25_35, autumn, 96, 4.1, 230, 2018).
+peca(1111, chino_shorts, jeans, geometric, 18_24, all, 386, 3.2, 78, 2018).
+peca(1112, beach_shirt, shirt, polka_dots, 35_45, autumn, 427, 3.3, 177, 2018).
+peca(1113, business_shirt, shoes, geometric, 18_24, winter, 287, 3.8, 159, 2018).
+peca(1114, blouse, shirt, geometric, 25_35, winter, 303, 3.0, 131, 2018).
+peca(1115, chino_shorts, jacket, geometric, 25_35, spring, 283, 3.6, 94, 2018).
+peca(1116, pattern_skirt, shoes, plain, 25_35, summer, 291, 4.3, 56, 2018).
+peca(1117, casual_jeans, shoes, geometric, 25_35, winter, 221, 4.5, 110, 2018).
+peca(1118, wool_jacket, jacket, polka_dots, 35_45, autumn, 69, 3.5, 249, 2018).
+peca(1119, biker_jacket, skirt, plain, 35_45, spring, 461, 3.6, 81, 2018).
+peca(1120, heels, jacket, geometric, 25_35, all, 207, 4.1, 125, 2018).
+peca(1121, blouse, shirt, polka_dots, 35_45, spring, 103, 4.3, 60, 2018).
+peca(1122, summer_dress, skirt, geometric, 25_35, summer, 117, 4.7, 131, 2018).
+peca(1123, summer_dress, shoes, plain, 18_24, autumn, 223, 4.6, 185, 2018).
+peca(1124, chino_shorts, shorts, plain, 35_45, all, 113, 4.9, 86, 2018).
+peca(1125, beach_shirt, skirt, geometric, 18_24, autumn, 348, 4.1, 199, 2018).
+peca(1126, business_shirt, dress, geometric, 18_24, autumn, 178, 4.5, 238, 2018).
+peca(1127, summer_dress, jeans, polka_dots, 18_24, all, 289, 3.5, 173, 2018).
+peca(1128, casual_jeans, skirt, plain, 25_35, spring, 496, 4.6, 109, 2018).
+peca(1129, beach_shirt, shorts, geometric, 35_45, spring, 210, 4.9, 154, 2018).
+peca(1130, chino_shorts, shoes, polka_dots, 25_35, spring, 452, 3.7, 222, 2018).
+peca(1131, casual_jeans, shoes, plain, 18_24, autumn, 51, 4.8, 223, 2018).
+peca(1132, pattern_skirt, jacket, geometric, 25_35, winter, 493, 4.1, 66, 2018).
+peca(1133, heels, jeans, geometric, 18_24, winter, 306, 4.5, 144, 2019).
+peca(1134, heels, jeans, plain, 25_35, autumn, 378, 4.3, 189, 2019).
+peca(1135, biker_jacket, shirt, plain, 35_45, spring, 247, 4.5, 111, 2019).
+peca(1136, heels, shoes, geometric, 35_45, spring, 302, 3.0, 223, 2019).
+peca(1137, blouse, shirt, plain, 25_35, summer, 374, 3.4, 235, 2019).
+peca(1138, wool_jacket, shoes, geometric, 35_45, all, 415, 4.9, 59, 2019).
+peca(1139, chino_shorts, blouse, plain, 35_45, autumn, 77, 3.6, 145, 2019).
+peca(1140, chino_shorts, shirt, geometric, 18_24, autumn, 134, 4.1, 203, 2019).
+peca(1141, blouse, jeans, polka_dots, 35_45, spring, 329, 3.0, 128, 2019).
+peca(1142, blouse, skirt, plain, 18_24, summer, 292, 4.3, 111, 2019).
+peca(1143, casual_jeans, jeans, polka_dots, 18_24, winter, 111, 4.5, 92, 2019).
+peca(1144, blouse, dress, polka_dots, 35_45, all, 450, 4.0, 112, 2019).
+peca(1145, blouse, shoes, polka_dots, 25_35, all, 443, 4.2, 216, 2019).
+peca(1146, pattern_skirt, dress, heart, 25_35, winter, 265, 3.3, 145, 2019).
+peca(1147, casual_jeans, shirt, polka_dots, 18_24, summer, 432, 4.0, 155, 2019).
+peca(1148, business_shirt, jeans, polka_dots, 18_24, spring, 92, 3.9, 92, 2019).
+peca(1149, wool_jacket, dress, plain, 35_45, spring, 321, 4.1, 126, 2019).
+peca(1150, blouse, shoes, polka_dots, 25_35, summer, 250, 3.7, 158, 2019).
+peca(1151, business_shirt, dress, polka_dots, 18_24, spring, 296, 3.9, 97, 2019).
+peca(1152, business_shirt, skirt, polka_dots, 18_24, all, 242, 3.8, 56, 2019).
+peca(1153, summer_dress, shoes, heart, 25_35, winter, 269, 3.1, 220, 2019).
+peca(1154, biker_jacket, blouse, polka_dots, 18_24, spring, 229, 4.7, 216, 2019).
+peca(1155, pattern_skirt, shorts, polka_dots, 35_45, winter, 159, 4.5, 93, 2019).
+peca(1156, wool_jacket, shoes, plain, 18_24, all, 223, 3.7, 131, 2019).
+peca(1157, blouse, dress, polka_dots, 35_45, autumn, 152, 4.0, 68, 2019).
+peca(1158, casual_jeans, jacket, geometric, 18_24, all, 378, 3.3, 121, 2019).
+peca(1159, blouse, dress, polka_dots, 35_45, summer, 356, 3.5, 65, 2019).
+peca(1160, beach_shirt, dress, geometric, 18_24, spring, 149, 4.8, 116, 2019).
+peca(1161, casual_jeans, shorts, plain, 25_35, summer, 496, 4.9, 66, 2019).
+peca(1162, business_shirt, skirt, geometric, 35_45, autumn, 492, 4.3, 164, 2019).
+peca(1163, business_shirt, shorts, geometric, 25_35, spring, 194, 3.8, 152, 2019).
+peca(1164, wool_jacket, jeans, polka_dots, 35_45, winter, 91, 3.7, 80, 2019).
+peca(1165, wool_jacket, shorts, plain, 25_35, all, 238, 3.1, 94, 2019).
+peca(1166, blouse, dress, plain, 18_24, summer, 283, 3.7, 218, 2019).
+peca(1167, wool_jacket, shoes, geometric, 35_45, spring, 208, 4.7, 173, 2019).
+peca(1168, wool_jacket, jeans, plain, 35_45, all, 100, 3.8, 110, 2019).
+peca(1169, wool_jacket, shoes, polka_dots, 25_35, spring, 124, 4.3, 64, 2019).
+peca(1170, summer_dress, shorts, plain, 18_24, all, 259, 4.3, 139, 2019).
+peca(1171, business_shirt, blouse, polka_dots, 25_35, autumn, 272, 3.7, 227, 2019).
+peca(1172, chino_shorts, jacket, plain, 35_45, all, 161, 4.4, 198, 2019).
+peca(1173, casual_jeans, blouse, plain, 25_35, winter, 160, 4.0, 155, 2019).
+peca(1174, beach_shirt, skirt, plain, 35_45, spring, 205, 3.6, 124, 2019).
+peca(1175, beach_shirt, skirt, polka_dots, 25_35, all, 152, 5.0, 208, 2019).
+peca(1176, beach_shirt, shorts, plain, 18_24, summer, 317, 4.7, 210, 2019).
+peca(1177, biker_jacket, shorts, plain, 25_35, autumn, 461, 4.7, 241, 2019).
+peca(1178, heels, shoes, plain, 18_24, summer, 70, 4.3, 98, 2019).
+peca(1179, beach_shirt, shoes, geometric, 25_35, autumn, 311, 3.9, 172, 2019).
+peca(1180, business_shirt, shoes, geometric, 35_45, all, 387, 3.0, 184, 2019).
+peca(1181, pattern_skirt, shoes, geometric, 35_45, autumn, 399, 4.1, 240, 2019).
+peca(1182, casual_jeans, skirt, plain, 25_35, winter, 135, 4.9, 217, 2019).
+peca(1183, beach_shirt, skirt, plain, 18_24, all, 375, 4.4, 52, 2019).
+peca(1184, beach_shirt, blouse, polka_dots, 18_24, autumn, 72, 4.4, 67, 2019).
+peca(1185, biker_jacket, shorts, geometric, 35_45, spring, 500, 4.1, 83, 2019).
+peca(1186, chino_shorts, shorts, geometric, 25_35, autumn, 155, 3.5, 179, 2019).
+peca(1187, wool_jacket, shoes, plain, 35_45, all, 440, 4.7, 135, 2019).
+peca(1188, blouse, skirt, geometric, 25_35, all, 367, 4.3, 194, 2019).
+peca(1189, casual_jeans, dress, geometric, 25_35, all, 279, 3.1, 131, 2019).
+peca(1190, summer_dress, shorts, floral, 25_35, summer, 301, 4.7, 167, 2019).
+peca(1191, summer_dress, shirt, plain, 35_45, autumn, 130, 3.5, 94, 2019).
+peca(1192, casual_jeans, jacket, geometric, 25_35, winter, 246, 4.8, 192, 2019).
+peca(1193, pattern_skirt, shorts, plain, 18_24, summer, 211, 3.7, 133, 2019).
+peca(1194, blouse, skirt, geometric, 18_24, winter, 460, 4.1, 176, 2019).
+peca(1195, summer_dress, blouse, plain, 18_24, winter, 314, 3.5, 213, 2019).
+peca(1196, pattern_skirt, shorts, plain, 25_35, autumn, 93, 4.0, 92, 2019).
+peca(1197, beach_shirt, dress, floral, 25_35, winter, 186, 3.6, 224, 2019).
+peca(1198, biker_jacket, shirt, plain, 35_45, summer, 51, 4.3, 218, 2019).
+peca(1199, blouse, shorts, polka_dots, 35_45, winter, 391, 4.0, 80, 2019).
+peca(1200, chino_shorts, dress, polka_dots, 35_45, spring, 84, 4.1, 227, 2019).
+peca(1201, wool_jacket, dress, polka_dots, 18_24, all, 318, 3.6, 110, 2019).
+peca(1202, blouse, shoes, plain, 18_24, spring, 387, 3.6, 142, 2019).
+peca(1203, chino_shorts, blouse, geometric, 18_24, winter, 469, 4.2, 201, 2019).
+peca(1204, heels, blouse, geometric, 18_24, winter, 440, 4.2, 172, 2019).
+peca(1205, summer_dress, shorts, polka_dots, 35_45, all, 68, 4.8, 196, 2019).
+peca(1206, heels, jeans, plain, 25_35, winter, 73, 4.6, 122, 2019).
+peca(1207, summer_dress, blouse, geometric, 18_24, winter, 165, 4.8, 146, 2019).
+peca(1208, biker_jacket, shoes, geometric, 18_24, winter, 137, 3.2, 144, 2019).
+peca(1209, summer_dress, jeans, geometric, 18_24, winter, 471, 4.3, 79, 2019).
+peca(1210, summer_dress, jacket, geometric, 25_35, spring, 161, 3.7, 181, 2019).
+peca(1211, chino_shorts, dress, geometric, 25_35, winter, 360, 4.5, 147, 2019).
+peca(1212, summer_dress, jeans, polka_dots, 35_45, autumn, 426, 3.6, 239, 2019).
+peca(1213, business_shirt, skirt, plain, 35_45, autumn, 88, 4.3, 227, 2019).
+peca(1214, beach_shirt, jacket, geometric, 35_45, all, 353, 4.1, 206, 2019).
+peca(1215, beach_shirt, shirt, plain, 25_35, all, 118, 5.0, 162, 2019).
+peca(1216, chino_shorts, skirt, geometric, 25_35, all, 338, 3.7, 153, 2019).
+peca(1217, wool_jacket, jeans, plain, 25_35, spring, 232, 3.1, 247, 2019).
+peca(1218, casual_jeans, skirt, plain, 18_24, winter, 431, 4.0, 142, 2019).
+peca(1219, summer_dress, dress, plain, 25_35, all, 351, 3.9, 75, 2019).
+peca(1220, casual_jeans, shorts, plain, 25_35, all, 394, 4.5, 90, 2019).
+peca(1221, summer_dress, blouse, plain, 18_24, winter, 472, 4.4, 77, 2019).
+peca(1222, beach_shirt, shoes, plain, 35_45, winter, 445, 4.5, 187, 2019).
+peca(1223, heels, shirt, plain, 25_35, all, 59, 4.7, 232, 2019).
+peca(1224, beach_shirt, dress, plain, 25_35, spring, 90, 4.1, 84, 2019).
+peca(1225, beach_shirt, shorts, plain, 25_35, autumn, 494, 4.7, 195, 2019).
+peca(1226, blouse, shirt, polka_dots, 35_45, winter, 122, 3.9, 220, 2019).
+peca(1227, wool_jacket, skirt, polka_dots, 35_45, autumn, 80, 4.4, 127, 2019).
+peca(1228, heels, shoes, geometric, 35_45, winter, 58, 3.8, 138, 2019).
+peca(1229, beach_shirt, shirt, plain, 35_45, spring, 363, 4.7, 134, 2019).
+peca(1230, casual_jeans, shorts, polka_dots, 18_24, autumn, 150, 3.6, 75, 2019).
+peca(1231, wool_jacket, skirt, geometric, 35_45, summer, 167, 3.5, 221, 2019).
+peca(1232, biker_jacket, jeans, striped, 35_45, spring, 318, 4.6, 223, 2019).
+peca(1233, beach_shirt, jeans, plain, 18_24, spring, 207, 4.7, 57, 2019).
+peca(1234, biker_jacket, shoes, plain, 18_24, spring, 274, 4.4, 184, 2019).
+peca(1235, wool_jacket, jeans, striped, 25_35, autumn, 399, 3.5, 85, 2019).
+peca(1236, wool_jacket, jacket, striped, 35_45, winter, 427, 4.7, 155, 2019).
+peca(1237, pattern_skirt, jacket, striped, 18_24, autumn, 395, 4.6, 223, 2019).
+peca(1238, wool_jacket, dress, striped, 18_24, all, 153, 3.7, 236, 2019).
+peca(1239, casual_jeans, blouse, striped, 35_45, autumn, 176, 4.8, 66, 2019).
+peca(1240, summer_dress, shoes, plain, 18_24, autumn, 400, 3.6, 181, 2019).
+peca(1241, pattern_skirt, dress, plain, 18_24, winter, 314, 4.2, 137, 2019).
+peca(1242, biker_jacket, shoes, plain, 18_24, winter, 376, 4.2, 100, 2019).
+peca(1243, chino_shorts, skirt, geometric, 18_24, summer, 207, 4.0, 217, 2019).
+peca(1244, wool_jacket, jeans, polka_dots, 25_35, winter, 57, 3.6, 147, 2019).
+peca(1245, biker_jacket, jacket, polka_dots, 18_24, spring, 123, 3.5, 143, 2019).
+peca(1246, beach_shirt, jacket, polka_dots, 18_24, summer, 65, 3.8, 126, 2019).
+peca(1247, wool_jacket, skirt, geometric, 18_24, autumn, 282, 3.1, 65, 2019).
+peca(1248, blouse, skirt, geometric, 18_24, autumn, 421, 3.4, 121, 2019).
+peca(1249, blouse, shorts, polka_dots, 35_45, autumn, 433, 4.2, 104, 2019).
+peca(1250, biker_jacket, jacket, plain, 25_35, autumn, 230, 3.5, 200, 2019).
+peca(1251, wool_jacket, dress, geometric, 18_24, winter, 58, 4.3, 97, 2019).
+peca(1252, business_shirt, shoes, geometric, 18_24, spring, 95, 3.5, 194, 2019).
+peca(1253, wool_jacket, jeans, plain, 25_35, autumn, 205, 4.7, 97, 2019).
+peca(1254, blouse, jacket, polka_dots, 35_45, spring, 372, 3.8, 248, 2019).
+peca(1255, heels, shorts, geometric, 18_24, spring, 227, 4.2, 56, 2019).
+peca(1256, wool_jacket, dress, geometric, 25_35, summer, 254, 4.9, 98, 2019).
+peca(1257, heels, blouse, polka_dots, 35_45, autumn, 69, 4.5, 114, 2019).
+peca(1258, chino_shorts, blouse, polka_dots, 25_35, winter, 172, 5.0, 129, 2019).
+peca(1259, beach_shirt, skirt, geometric, 25_35, winter, 340, 3.8, 97, 2019).
+peca(1260, wool_jacket, shoes, geometric, 35_45, winter, 368, 5.0, 54, 2019).
+peca(1261, casual_jeans, shirt, geometric, 35_45, autumn, 453, 3.3, 110, 2019).
+peca(1262, summer_dress, skirt, geometric, 35_45, all, 249, 3.8, 151, 2019).
+peca(1263, casual_jeans, skirt, polka_dots, 35_45, autumn, 308, 3.5, 130, 2019).
+peca(1264, heels, dress, geometric, 35_45, spring, 247, 3.9, 72, 2019).
+peca(1265, blouse, shirt, plain, 18_24, all, 405, 4.5, 61, 2020).
+peca(1266, casual_jeans, skirt, polka_dots, 25_35, winter, 376, 3.9, 216, 2020).
+peca(1267, pattern_skirt, blouse, plain, 25_35, autumn, 148, 4.8, 106, 2020).
+peca(1268, wool_jacket, dress, geometric, 18_24, winter, 96, 4.7, 221, 2020).
+peca(1269, heels, shirt, geometric, 18_24, autumn, 123, 4.1, 178, 2020).
+peca(1270, casual_jeans, skirt, plain, 35_45, winter, 215, 3.5, 217, 2020).
+peca(1271, beach_shirt, skirt, plain, 35_45, winter, 429, 4.6, 70, 2020).
+peca(1272, wool_jacket, jeans, geometric, 35_45, spring, 78, 3.9, 168, 2020).
+peca(1273, casual_jeans, blouse, plain, 35_45, all, 317, 3.1, 177, 2020).
+peca(1274, pattern_skirt, shoes, geometric, 35_45, summer, 479, 4.4, 57, 2020).
+peca(1275, pattern_skirt, shirt, geometric, 35_45, autumn, 233, 3.5, 110, 2020).
+peca(1276, beach_shirt, dress, polka_dots, 25_35, all, 90, 4.3, 233, 2020).
+peca(1277, beach_shirt, shorts, polka_dots, 18_24, spring, 83, 4.8, 107, 2020).
+peca(1278, summer_dress, jeans, polka_dots, 35_45, summer, 251, 3.8, 206, 2020).
+peca(1279, business_shirt, dress, polka_dots, 25_35, all, 400, 3.0, 122, 2020).
+peca(1280, blouse, jeans, polka_dots, 25_35, autumn, 299, 4.0, 171, 2020).
+peca(1281, casual_jeans, dress, plain, 35_45, all, 235, 3.6, 81, 2020).
+peca(1282, biker_jacket, dress, polka_dots, 18_24, spring, 115, 4.4, 193, 2020).
+peca(1283, business_shirt, dress, heart, 35_45, autumn, 184, 4.9, 141, 2020).
+peca(1284, casual_jeans, shorts, plain, 25_35, summer, 347, 4.3, 143, 2020).
+peca(1285, summer_dress, jacket, heart, 25_35, spring, 52, 3.8, 203, 2020).
+peca(1286, business_shirt, jeans, plain, 25_35, all, 354, 4.7, 158, 2020).
+peca(1287, wool_jacket, blouse, plain, 18_24, autumn, 335, 4.8, 93, 2020).
+peca(1288, wool_jacket, skirt, plain, 35_45, spring, 207, 4.1, 140, 2020).
+peca(1289, beach_shirt, jeans, geometric, 35_45, autumn, 212, 3.5, 102, 2020).
+peca(1290, business_shirt, shoes, plain, 35_45, spring, 298, 4.0, 83, 2020).
+peca(1291, business_shirt, jacket, geometric, 25_35, spring, 367, 3.8, 145, 2020).
+peca(1292, beach_shirt, shirt, polka_dots, 35_45, all, 366, 4.1, 189, 2020).
+peca(1293, casual_jeans, shoes, geometric, 18_24, winter, 346, 4.2, 164, 2020).
+peca(1294, chino_shorts, skirt, plain, 18_24, all, 465, 3.4, 125, 2020).
+peca(1295, blouse, skirt, geometric, 25_35, summer, 309, 3.2, 142, 2020).
+peca(1296, pattern_skirt, jacket, plain, 35_45, summer, 164, 4.2, 236, 2020).
+peca(1297, blouse, jeans, polka_dots, 25_35, spring, 416, 3.9, 220, 2020).
+peca(1298, chino_shorts, jacket, geometric, 25_35, spring, 130, 3.6, 196, 2020).
+peca(1299, summer_dress, dress, polka_dots, 35_45, spring, 276, 3.9, 145, 2020).
+peca(1300, heels, blouse, plain, 18_24, all, 138, 4.4, 196, 2020).
+peca(1301, heels, blouse, geometric, 18_24, all, 423, 3.1, 83, 2020).
+peca(1302, business_shirt, shirt, geometric, 25_35, autumn, 472, 4.7, 84, 2020).
+peca(1303, blouse, shorts, polka_dots, 35_45, winter, 190, 4.1, 67, 2020).
+peca(1304, business_shirt, shoes, polka_dots, 35_45, all, 464, 3.6, 95, 2020).
+peca(1305, business_shirt, dress, geometric, 18_24, spring, 73, 4.2, 130, 2020).
+peca(1306, summer_dress, dress, plain, 18_24, winter, 53, 4.1, 170, 2020).
+peca(1307, blouse, shorts, geometric, 35_45, summer, 361, 4.1, 175, 2020).
+peca(1308, chino_shorts, shoes, polka_dots, 18_24, spring, 195, 4.3, 131, 2020).
+peca(1309, casual_jeans, jeans, polka_dots, 35_45, spring, 442, 4.2, 88, 2020).
+peca(1310, wool_jacket, skirt, plain, 35_45, summer, 69, 3.9, 96, 2020).
+peca(1311, business_shirt, skirt, plain, 25_35, summer, 348, 4.3, 57, 2020).
+peca(1312, pattern_skirt, shoes, polka_dots, 18_24, summer, 344, 3.3, 143, 2020).
+peca(1313, business_shirt, shirt, geometric, 18_24, all, 279, 4.8, 81, 2020).
+peca(1314, chino_shorts, blouse, geometric, 25_35, autumn, 482, 4.2, 181, 2020).
+peca(1315, summer_dress, dress, plain, 18_24, autumn, 382, 4.7, 119, 2020).
+peca(1316, chino_shorts, jacket, geometric, 18_24, winter, 135, 4.0, 243, 2020).
+peca(1317, chino_shorts, shorts, geometric, 35_45, all, 381, 4.5, 188, 2020).
+peca(1318, pattern_skirt, blouse, polka_dots, 18_24, winter, 221, 3.9, 159, 2020).
+peca(1319, summer_dress, jacket, polka_dots, 25_35, autumn, 202, 3.5, 86, 2020).
+peca(1320, blouse, shorts, floral, 35_45, summer, 140, 4.6, 221, 2020).
+peca(1321, beach_shirt, shirt, geometric, 25_35, spring, 349, 3.8, 108, 2020).
+peca(1322, summer_dress, blouse, floral, 18_24, spring, 423, 4.4, 197, 2020).
+peca(1323, chino_shorts, jeans, floral, 35_45, autumn, 351, 4.9, 81, 2020).
+peca(1324, chino_shorts, blouse, geometric, 25_35, spring, 269, 4.8, 116, 2020).
+peca(1325, pattern_skirt, dress, floral, 35_45, spring, 230, 3.4, 60, 2020).
+peca(1326, chino_shorts, jeans, plain, 18_24, winter, 488, 4.0, 83, 2020).
+peca(1327, pattern_skirt, jeans, plain, 18_24, spring, 172, 5.0, 99, 2020).
+peca(1328, casual_jeans, jeans, floral, 18_24, all, 50, 3.8, 173, 2020).
+peca(1329, blouse, jeans, floral, 25_35, autumn, 51, 3.5, 110, 2020).
+peca(1330, wool_jacket, jeans, floral, 18_24, winter, 206, 3.5, 232, 2020).
+peca(1331, biker_jacket, shirt, geometric, 18_24, winter, 404, 4.4, 103, 2020).
+peca(1332, summer_dress, blouse, polka_dots, 18_24, winter, 79, 4.4, 128, 2020).
+peca(1333, heels, shorts, plain, 25_35, autumn, 371, 3.4, 72, 2020).
+peca(1334, biker_jacket, skirt, geometric, 18_24, all, 396, 3.1, 200, 2020).
+peca(1335, heels, skirt, polka_dots, 18_24, winter, 453, 4.2, 162, 2020).
+peca(1336, summer_dress, dress, polka_dots, 35_45, spring, 137, 3.6, 168, 2020).
+peca(1337, biker_jacket, jacket, geometric, 18_24, all, 202, 3.9, 171, 2020).
+peca(1338, summer_dress, jeans, polka_dots, 35_45, winter, 136, 3.2, 106, 2020).
+peca(1339, business_shirt, shirt, geometric, 18_24, spring, 440, 3.2, 187, 2020).
+peca(1340, heels, dress, plain, 18_24, spring, 184, 4.3, 153, 2020).
+peca(1341, chino_shorts, jeans, geometric, 35_45, all, 242, 4.2, 108, 2020).
+peca(1342, business_shirt, jacket, plain, 18_24, winter, 435, 4.8, 102, 2020).
+peca(1343, casual_jeans, shirt, geometric, 18_24, summer, 432, 3.2, 243, 2020).
+peca(1344, chino_shorts, blouse, geometric, 18_24, all, 177, 3.4, 180, 2020).
+peca(1345, wool_jacket, shirt, polka_dots, 18_24, autumn, 263, 4.2, 132, 2020).
+peca(1346, chino_shorts, dress, geometric, 35_45, all, 128, 4.3, 210, 2020).
+peca(1347, heels, shorts, polka_dots, 25_35, autumn, 247, 3.4, 129, 2020).
+peca(1348, chino_shorts, jacket, geometric, 25_35, autumn, 447, 5.0, 236, 2020).
+peca(1349, pattern_skirt, jeans, plain, 25_35, winter, 419, 3.5, 245, 2020).
+peca(1350, chino_shorts, jeans, plain, 18_24, all, 132, 4.1, 180, 2020).
+peca(1351, wool_jacket, shirt, plain, 35_45, winter, 64, 3.1, 56, 2020).
+peca(1352, wool_jacket, shorts, geometric, 25_35, all, 148, 4.6, 242, 2020).
+peca(1353, wool_jacket, shirt, polka_dots, 35_45, autumn, 332, 4.3, 249, 2020).
+peca(1354, casual_jeans, skirt, geometric, 25_35, all, 440, 4.9, 57, 2020).
+peca(1355, summer_dress, shorts, plain, 18_24, summer, 172, 3.2, 57, 2020).
+peca(1356, summer_dress, shorts, geometric, 35_45, summer, 391, 3.2, 191, 2020).
+peca(1357, pattern_skirt, shorts, geometric, 18_24, spring, 405, 3.5, 141, 2020).
+peca(1358, pattern_skirt, skirt, polka_dots, 25_35, autumn, 220, 3.9, 77, 2020).
+peca(1359, blouse, shirt, plain, 18_24, winter, 310, 3.4, 78, 2020).
+peca(1360, beach_shirt, shoes, polka_dots, 35_45, summer, 259, 4.2, 182, 2020).
+peca(1361, beach_shirt, dress, geometric, 35_45, summer, 463, 4.4, 59, 2020).
+peca(1362, summer_dress, shorts, geometric, 18_24, all, 298, 4.3, 204, 2020).
+peca(1363, heels, dress, polka_dots, 35_45, spring, 76, 3.1, 169, 2020).
+peca(1364, beach_shirt, shoes, plain, 18_24, autumn, 429, 4.3, 204, 2020).
+peca(1365, wool_jacket, shirt, plain, 35_45, all, 109, 3.9, 181, 2020).
+peca(1366, heels, shorts, striped, 25_35, spring, 442, 3.4, 220, 2020).
+peca(1367, pattern_skirt, shirt, striped, 25_35, all, 319, 4.6, 91, 2020).
+peca(1368, business_shirt, shirt, striped, 18_24, summer, 201, 4.7, 67, 2020).
+peca(1369, beach_shirt, shoes, striped, 35_45, all, 497, 3.7, 88, 2020).
+peca(1370, chino_shorts, shirt, striped, 18_24, winter, 97, 4.6, 94, 2020).
+peca(1371, casual_jeans, blouse, striped, 18_24, winter, 411, 4.9, 96, 2020).
+peca(1372, biker_jacket, shirt, striped, 35_45, spring, 220, 4.7, 146, 2020).
+peca(1373, heels, dress, striped, 18_24, winter, 296, 3.5, 114, 2020).
+peca(1374, blouse, shirt, plain, 25_35, spring, 499, 3.8, 156, 2020).
+peca(1375, biker_jacket, jacket, plain, 25_35, summer, 191, 4.6, 205, 2020).
+peca(1376, summer_dress, shoes, geometric, 18_24, spring, 345, 4.8, 57, 2020).
+peca(1377, biker_jacket, shirt, polka_dots, 18_24, spring, 62, 3.2, 206, 2020).
+peca(1378, summer_dress, shirt, geometric, 35_45, spring, 147, 4.3, 186, 2020).
+peca(1379, blouse, dress, polka_dots, 25_35, all, 176, 4.4, 79, 2020).
+peca(1380, biker_jacket, blouse, polka_dots, 18_24, spring, 316, 4.8, 88, 2020).
+peca(1381, blouse, jeans, geometric, 25_35, all, 109, 3.3, 68, 2020).
+peca(1382, pattern_skirt, blouse, geometric, 35_45, summer, 234, 4.7, 99, 2020).
+peca(1383, chino_shorts, skirt, polka_dots, 18_24, all, 90, 4.5, 99, 2020).
+peca(1384, chino_shorts, shorts, geometric, 18_24, spring, 488, 4.2, 141, 2020).
+peca(1385, heels, skirt, geometric, 35_45, spring, 145, 4.2, 241, 2020).
+peca(1386, summer_dress, skirt, polka_dots, 18_24, winter, 52, 4.0, 148, 2020).
+peca(1387, summer_dress, skirt, geometric, 18_24, all, 382, 3.1, 95, 2020).
+peca(1388, business_shirt, skirt, geometric, 18_24, autumn, 487, 4.0, 246, 2020).
+peca(1389, casual_jeans, blouse, plain, 18_24, all, 185, 4.4, 152, 2020).
+peca(1390, business_shirt, jacket, plain, 25_35, summer, 134, 4.8, 227, 2020).
+peca(1391, chino_shorts, dress, geometric, 25_35, all, 108, 4.9, 226, 2020).
+peca(1392, chino_shorts, jeans, plain, 35_45, winter, 457, 3.7, 119, 2020).
+peca(1393, wool_jacket, jacket, geometric, 35_45, summer, 346, 3.7, 244, 2020).
+peca(1394, blouse, blouse, geometric, 25_35, winter, 301, 4.1, 242, 2020).
+peca(1395, blouse, shirt, plain, 35_45, summer, 257, 4.9, 65, 2020).
+peca(1396, wool_jacket, shorts, plain, 35_45, autumn, 233, 3.0, 218, 2020).
+peca(1397, heels, dress, polka_dots, 35_45, spring, 387, 4.2, 143, 2021).
+peca(1398, summer_dress, shorts, polka_dots, 35_45, winter, 242, 4.2, 110, 2021).
+peca(1399, wool_jacket, shoes, plain, 18_24, winter, 57, 4.5, 178, 2021).
+peca(1400, blouse, dress, plain, 18_24, spring, 125, 4.5, 160, 2021).
+peca(1401, blouse, jacket, geometric, 35_45, all, 127, 4.1, 52, 2021).
+peca(1402, chino_shorts, shorts, polka_dots, 25_35, all, 233, 3.3, 64, 2021).
+peca(1403, business_shirt, skirt, plain, 18_24, spring, 215, 4.5, 242, 2021).
+peca(1404, business_shirt, skirt, plain, 25_35, summer, 178, 4.5, 145, 2021).
+peca(1405, chino_shorts, blouse, plain, 18_24, autumn, 144, 3.1, 100, 2021).
+peca(1406, beach_shirt, blouse, plain, 18_24, all, 297, 4.7, 160, 2021).
+peca(1407, summer_dress, skirt, geometric, 25_35, autumn, 69, 4.0, 209, 2021).
+peca(1408, wool_jacket, shorts, heart, 18_24, spring, 64, 3.4, 69, 2021).
+peca(1409, beach_shirt, jacket, heart, 25_35, winter, 500, 4.1, 125, 2021).
+peca(1410, summer_dress, blouse, plain, 35_45, summer, 369, 4.3, 244, 2021).
+peca(1411, blouse, shorts, polka_dots, 25_35, spring, 471, 3.9, 90, 2021).
+peca(1412, pattern_skirt, shoes, plain, 25_35, all, 232, 3.6, 206, 2021).
+peca(1413, beach_shirt, dress, polka_dots, 18_24, summer, 89, 3.9, 134, 2021).
+peca(1414, beach_shirt, blouse, heart, 25_35, all, 249, 5.0, 132, 2021).
+peca(1415, wool_jacket, dress, heart, 18_24, winter, 337, 3.8, 203, 2021).
+peca(1416, pattern_skirt, shoes, plain, 18_24, all, 352, 4.5, 83, 2021).
+peca(1417, casual_jeans, shorts, heart, 35_45, winter, 167, 3.7, 168, 2021).
+peca(1418, heels, skirt, plain, 18_24, winter, 430, 3.6, 222, 2021).
+peca(1419, summer_dress, skirt, plain, 25_35, autumn, 239, 4.0, 162, 2021).
+peca(1420, summer_dress, jacket, geometric, 25_35, summer, 140, 3.9, 205, 2021).
+peca(1421, beach_shirt, jacket, polka_dots, 35_45, all, 417, 4.3, 150, 2021).
+peca(1422, chino_shorts, shoes, polka_dots, 35_45, summer, 209, 4.2, 210, 2021).
+peca(1423, business_shirt, dress, geometric, 18_24, autumn, 184, 4.5, 139, 2021).
+peca(1424, beach_shirt, jacket, polka_dots, 18_24, autumn, 329, 4.1, 239, 2021).
+peca(1425, blouse, shirt, geometric, 35_45, autumn, 486, 5.0, 223, 2021).
+peca(1426, casual_jeans, shoes, polka_dots, 18_24, summer, 296, 3.2, 118, 2021).
+peca(1427, blouse, shirt, plain, 25_35, summer, 321, 4.5, 194, 2021).
+peca(1428, business_shirt, skirt, plain, 25_35, spring, 471, 3.1, 204, 2021).
+peca(1429, biker_jacket, skirt, plain, 18_24, spring, 291, 3.4, 100, 2021).
+peca(1430, beach_shirt, skirt, geometric, 35_45, autumn, 429, 4.1, 54, 2021).
+peca(1431, biker_jacket, blouse, geometric, 25_35, all, 93, 4.2, 173, 2021).
+peca(1432, chino_shorts, blouse, plain, 25_35, autumn, 463, 3.3, 90, 2021).
+peca(1433, summer_dress, shoes, plain, 35_45, all, 106, 4.9, 136, 2021).
+peca(1434, beach_shirt, shoes, geometric, 25_35, spring, 79, 3.8, 216, 2021).
+peca(1435, biker_jacket, blouse, polka_dots, 25_35, spring, 500, 4.9, 159, 2021).
+peca(1436, summer_dress, skirt, plain, 25_35, winter, 247, 3.6, 236, 2021).
+peca(1437, casual_jeans, blouse, plain, 18_24, summer, 127, 4.6, 92, 2021).
+peca(1438, pattern_skirt, shoes, plain, 18_24, spring, 453, 4.8, 179, 2021).
+peca(1439, summer_dress, blouse, geometric, 35_45, spring, 89, 4.2, 151, 2021).
+peca(1440, wool_jacket, jacket, plain, 25_35, all, 149, 3.3, 186, 2021).
+peca(1441, summer_dress, shorts, polka_dots, 35_45, summer, 124, 4.2, 160, 2021).
+peca(1442, business_shirt, shoes, polka_dots, 25_35, all, 220, 4.4, 91, 2021).
+peca(1443, blouse, dress, polka_dots, 35_45, winter, 258, 3.3, 136, 2021).
+peca(1444, beach_shirt, jeans, geometric, 35_45, autumn, 214, 4.7, 161, 2021).
+peca(1445, casual_jeans, skirt, geometric, 18_24, summer, 342, 3.7, 99, 2021).
+peca(1446, chino_shorts, jacket, plain, 35_45, autumn, 218, 4.5, 246, 2021).
+peca(1447, business_shirt, skirt, plain, 25_35, all, 126, 3.6, 236, 2021).
+peca(1448, casual_jeans, shoes, polka_dots, 25_35, summer, 165, 3.3, 195, 2021).
+peca(1449, business_shirt, dress, plain, 18_24, winter, 257, 3.3, 88, 2021).
+peca(1450, summer_dress, shirt, polka_dots, 35_45, winter, 295, 3.6, 138, 2021).
+peca(1451, pattern_skirt, shoes, polka_dots, 35_45, autumn, 409, 4.9, 116, 2021).
+peca(1452, wool_jacket, jeans, geometric, 18_24, spring, 281, 4.4, 200, 2021).
+peca(1453, summer_dress, jeans, geometric, 35_45, autumn, 269, 4.9, 116, 2021).
+peca(1454, blouse, jeans, geometric, 18_24, summer, 111, 5.0, 161, 2021).
+peca(1455, blouse, skirt, floral, 25_35, summer, 52, 3.0, 206, 2021).
+peca(1456, casual_jeans, dress, geometric, 35_45, summer, 126, 3.1, 172, 2021).
+peca(1457, wool_jacket, shorts, geometric, 25_35, winter, 62, 3.4, 83, 2021).
+peca(1458, wool_jacket, dress, floral, 18_24, spring, 207, 3.9, 174, 2021).
+peca(1459, beach_shirt, shirt, plain, 18_24, winter, 386, 3.5, 71, 2021).
+peca(1460, casual_jeans, shoes, plain, 25_35, winter, 182, 3.5, 196, 2021).
+peca(1461, wool_jacket, dress, plain, 25_35, autumn, 74, 4.4, 187, 2021).
+peca(1462, heels, blouse, plain, 18_24, all, 278, 3.8, 190, 2021).
+peca(1463, summer_dress, jacket, polka_dots, 25_35, winter, 86, 3.9, 156, 2021).
+peca(1464, beach_shirt, skirt, geometric, 18_24, summer, 382, 4.4, 124, 2021).
+peca(1465, pattern_skirt, skirt, polka_dots, 35_45, spring, 329, 3.4, 116, 2021).
+peca(1466, pattern_skirt, jacket, plain, 35_45, all, 350, 3.7, 239, 2021).
+peca(1467, casual_jeans, jacket, geometric, 18_24, summer, 246, 3.8, 83, 2021).
+peca(1468, wool_jacket, shirt, plain, 35_45, all, 442, 4.3, 188, 2021).
+peca(1469, wool_jacket, shoes, plain, 35_45, all, 196, 4.5, 193, 2021).
+peca(1470, beach_shirt, skirt, polka_dots, 35_45, autumn, 389, 4.8, 138, 2021).
+peca(1471, pattern_skirt, shirt, polka_dots, 25_35, all, 494, 4.7, 51, 2021).
+peca(1472, casual_jeans, blouse, geometric, 35_45, all, 69, 4.3, 100, 2021).
+peca(1473, summer_dress, shirt, polka_dots, 25_35, autumn, 127, 3.9, 157, 2021).
+peca(1474, heels, jacket, geometric, 35_45, all, 488, 3.9, 63, 2021).
+peca(1475, biker_jacket, blouse, plain, 18_24, spring, 120, 4.5, 215, 2021).
+peca(1476, casual_jeans, skirt, plain, 18_24, all, 110, 3.7, 166, 2021).
+peca(1477, biker_jacket, dress, plain, 35_45, summer, 272, 4.5, 229, 2021).
+peca(1478, beach_shirt, blouse, geometric, 35_45, all, 476, 3.6, 168, 2021).
+peca(1479, casual_jeans, shorts, polka_dots, 25_35, autumn, 465, 4.6, 234, 2021).
+peca(1480, business_shirt, jeans, plain, 25_35, autumn, 178, 3.9, 132, 2021).
+peca(1481, business_shirt, shoes, geometric, 25_35, summer, 350, 5.0, 129, 2021).
+peca(1482, biker_jacket, shorts, polka_dots, 25_35, all, 295, 4.8, 235, 2021).
+peca(1483, wool_jacket, jacket, geometric, 18_24, winter, 279, 4.3, 214, 2021).
+peca(1484, chino_shorts, skirt, polka_dots, 35_45, summer, 99, 4.8, 50, 2021).
+peca(1485, beach_shirt, shoes, geometric, 35_45, autumn, 473, 3.9, 193, 2021).
+peca(1486, casual_jeans, shoes, geometric, 35_45, winter, 218, 3.7, 210, 2021).
+peca(1487, blouse, blouse, plain, 25_35, autumn, 145, 4.9, 73, 2021).
+peca(1488, beach_shirt, blouse, geometric, 35_45, winter, 299, 3.7, 224, 2021).
+peca(1489, blouse, jacket, polka_dots, 18_24, summer, 354, 4.3, 141, 2021).
+peca(1490, blouse, shirt, plain, 18_24, autumn, 86, 4.6, 164, 2021).
+peca(1491, wool_jacket, jeans, plain, 25_35, autumn, 232, 4.5, 187, 2021).
+peca(1492, blouse, shorts, plain, 18_24, summer, 50, 4.9, 238, 2021).
+peca(1493, chino_shorts, dress, plain, 35_45, spring, 456, 3.9, 52, 2021).
+peca(1494, casual_jeans, jeans, geometric, 35_45, summer, 280, 4.0, 93, 2021).
+peca(1495, beach_shirt, dress, polka_dots, 25_35, all, 289, 3.6, 212, 2021).
+peca(1496, beach_shirt, shoes, striped, 18_24, summer, 442, 4.2, 145, 2021).
+peca(1497, business_shirt, shorts, plain, 18_24, all, 407, 3.7, 157, 2021).
+peca(1498, chino_shorts, blouse, striped, 18_24, summer, 118, 4.0, 130, 2021).
+peca(1499, business_shirt, jacket, plain, 25_35, summer, 139, 4.1, 96, 2021).
+peca(1500, heels, shoes, plain, 18_24, winter, 242, 3.3, 219, 2021).
+peca(1501, business_shirt, skirt, striped, 18_24, autumn, 362, 4.2, 65, 2021).
+peca(1502, biker_jacket, blouse, plain, 18_24, winter, 135, 3.2, 119, 2021).
+peca(1503, casual_jeans, shirt, striped, 35_45, summer, 405, 4.7, 76, 2021).
+peca(1504, chino_shorts, skirt, striped, 18_24, all, 264, 3.1, 147, 2021).
+peca(1505, pattern_skirt, shorts, plain, 18_24, winter, 232, 4.7, 97, 2021).
+peca(1506, summer_dress, skirt, plain, 35_45, all, 388, 3.7, 194, 2021).
+peca(1507, beach_shirt, jacket, polka_dots, 25_35, autumn, 70, 4.5, 221, 2021).
+peca(1508, casual_jeans, jacket, polka_dots, 18_24, winter, 389, 4.1, 195, 2021).
+peca(1509, beach_shirt, dress, geometric, 25_35, all, 312, 3.3, 50, 2021).
+peca(1510, biker_jacket, jeans, plain, 25_35, winter, 318, 3.6, 218, 2021).
+peca(1511, beach_shirt, blouse, polka_dots, 35_45, all, 252, 4.6, 159, 2021).
+peca(1512, blouse, jeans, geometric, 25_35, summer, 483, 4.8, 164, 2021).
+peca(1513, pattern_skirt, shirt, plain, 18_24, all, 434, 3.8, 231, 2021).
+peca(1514, chino_shorts, blouse, plain, 35_45, all, 132, 4.2, 89, 2021).
+peca(1515, beach_shirt, jacket, geometric, 25_35, summer, 55, 4.1, 231, 2021).
+peca(1516, beach_shirt, jacket, polka_dots, 35_45, all, 396, 4.2, 197, 2021).
+peca(1517, heels, dress, polka_dots, 18_24, summer, 465, 4.6, 167, 2021).
+peca(1518, blouse, dress, polka_dots, 25_35, winter, 222, 3.9, 96, 2021).
+peca(1519, pattern_skirt, blouse, polka_dots, 18_24, all, 300, 4.3, 241, 2021).
+peca(1520, casual_jeans, jacket, plain, 18_24, all, 153, 4.1, 103, 2021).
+peca(1521, chino_shorts, shirt, plain, 35_45, spring, 279, 4.5, 239, 2021).
+peca(1522, casual_jeans, jacket, plain, 35_45, all, 214, 3.4, 94, 2021).
+peca(1523, beach_shirt, skirt, plain, 35_45, summer, 394, 4.1, 82, 2021).
+peca(1524, heels, dress, polka_dots, 18_24, all, 371, 4.5, 149, 2021).
+peca(1525, biker_jacket, skirt, geometric, 18_24, spring, 205, 3.3, 66, 2021).
+peca(1526, business_shirt, shorts, plain, 18_24, autumn, 312, 3.8, 73, 2021).
+peca(1527, wool_jacket, jacket, plain, 35_45, all, 286, 3.3, 153, 2021).
+peca(1528, casual_jeans, jeans, geometric, 25_35, autumn, 157, 3.1, 243, 2021).
+peca(1529, beach_shirt, shoes, plain, 18_24, spring, 182, 3.8, 128, 2022).
+peca(1530, casual_jeans, jacket, polka_dots, 25_35, summer, 325, 3.6, 242, 2022).
+peca(1531, casual_jeans, shorts, plain, 18_24, all, 252, 3.5, 125, 2022).
+peca(1532, heels, dress, polka_dots, 35_45, autumn, 52, 3.6, 234, 2022).
+peca(1533, casual_jeans, shoes, plain, 25_35, spring, 295, 4.6, 245, 2022).
+peca(1534, beach_shirt, jacket, geometric, 25_35, spring, 162, 3.8, 186, 2022).
+peca(1535, biker_jacket, dress, geometric, 35_45, all, 91, 4.9, 209, 2022).
+peca(1536, heels, dress, plain, 35_45, autumn, 427, 3.1, 167, 2022).
+peca(1537, blouse, shirt, polka_dots, 25_35, summer, 491, 3.4, 60, 2022).
+peca(1538, wool_jacket, dress, geometric, 25_35, all, 408, 4.3, 141, 2022).
+peca(1539, summer_dress, dress, geometric, 18_24, spring, 233, 4.9, 143, 2022).
+peca(1540, casual_jeans, skirt, polka_dots, 35_45, autumn, 334, 3.3, 177, 2022).
+peca(1541, summer_dress, shoes, polka_dots, 25_35, spring, 197, 4.9, 207, 2022).
+peca(1542, pattern_skirt, shirt, polka_dots, 35_45, all, 442, 3.7, 172, 2022).
+peca(1543, wool_jacket, skirt, polka_dots, 25_35, autumn, 190, 4.6, 250, 2022).
+peca(1544, heels, blouse, plain, 25_35, all, 65, 4.1, 158, 2022).
+peca(1545, pattern_skirt, shorts, polka_dots, 18_24, winter, 113, 3.3, 124, 2022).
+peca(1546, chino_shorts, blouse, heart, 25_35, spring, 407, 4.1, 212, 2022).
+peca(1547, beach_shirt, blouse, plain, 25_35, winter, 69, 3.7, 167, 2022).
+peca(1548, beach_shirt, jacket, polka_dots, 18_24, all, 239, 3.1, 133, 2022).
+peca(1549, pattern_skirt, blouse, polka_dots, 18_24, autumn, 209, 4.9, 159, 2022).
+peca(1550, chino_shorts, dress, heart, 35_45, all, 438, 3.3, 160, 2022).
+peca(1551, pattern_skirt, shorts, geometric, 35_45, summer, 383, 3.6, 244, 2022).
+peca(1552, business_shirt, shorts, polka_dots, 18_24, winter, 371, 3.0, 153, 2022).
+peca(1553, heels, skirt, plain, 25_35, autumn, 481, 3.9, 145, 2022).
+peca(1554, heels, shorts, geometric, 35_45, spring, 63, 4.9, 237, 2022).
+peca(1555, heels, shoes, geometric, 35_45, summer, 141, 3.1, 149, 2022).
+peca(1556, chino_shorts, shorts, polka_dots, 35_45, spring, 241, 4.7, 140, 2022).
+peca(1557, beach_shirt, shorts, polka_dots, 18_24, autumn, 191, 3.3, 175, 2022).
+peca(1558, casual_jeans, shoes, polka_dots, 25_35, summer, 212, 4.0, 94, 2022).
+peca(1559, chino_shorts, dress, polka_dots, 25_35, all, 488, 3.5, 151, 2022).
+peca(1560, pattern_skirt, shorts, geometric, 18_24, autumn, 306, 3.2, 109, 2022).
+peca(1561, business_shirt, dress, polka_dots, 25_35, winter, 86, 4.9, 229, 2022).
+peca(1562, wool_jacket, jeans, plain, 25_35, spring, 489, 3.7, 138, 2022).
+peca(1563, beach_shirt, jeans, plain, 18_24, spring, 327, 4.8, 228, 2022).
+peca(1564, heels, dress, polka_dots, 18_24, winter, 490, 3.0, 84, 2022).
+peca(1565, beach_shirt, blouse, plain, 35_45, autumn, 74, 3.8, 121, 2022).
+peca(1566, pattern_skirt, blouse, geometric, 25_35, spring, 278, 5.0, 87, 2022).
+peca(1567, summer_dress, shirt, geometric, 35_45, spring, 159, 3.5, 119, 2022).
+peca(1568, pattern_skirt, shirt, plain, 18_24, summer, 471, 3.8, 211, 2022).
+peca(1569, beach_shirt, shorts, geometric, 18_24, autumn, 98, 4.2, 218, 2022).
+peca(1570, heels, blouse, geometric, 35_45, summer, 59, 3.7, 144, 2022).
+peca(1571, heels, jeans, polka_dots, 25_35, summer, 462, 4.8, 50, 2022).
+peca(1572, blouse, skirt, polka_dots, 18_24, all, 52, 3.6, 101, 2022).
+peca(1573, beach_shirt, shoes, polka_dots, 18_24, autumn, 144, 3.2, 218, 2022).
+peca(1574, pattern_skirt, skirt, plain, 18_24, autumn, 282, 4.7, 169, 2022).
+peca(1575, blouse, shirt, geometric, 35_45, all, 421, 4.9, 96, 2022).
+peca(1576, biker_jacket, skirt, plain, 35_45, all, 494, 3.2, 56, 2022).
+peca(1577, biker_jacket, dress, polka_dots, 18_24, winter, 178, 4.5, 226, 2022).
+peca(1578, wool_jacket, blouse, plain, 35_45, all, 64, 4.0, 239, 2022).
+peca(1579, chino_shorts, shirt, polka_dots, 25_35, autumn, 249, 4.9, 242, 2022).
+peca(1580, blouse, skirt, geometric, 35_45, autumn, 79, 4.0, 237, 2022).
+peca(1581, biker_jacket, dress, polka_dots, 18_24, autumn, 349, 4.9, 139, 2022).
+peca(1582, casual_jeans, jacket, geometric, 18_24, spring, 69, 3.6, 183, 2022).
+peca(1583, wool_jacket, shoes, geometric, 18_24, spring, 245, 3.9, 107, 2022).
+peca(1584, beach_shirt, blouse, floral, 35_45, spring, 161, 3.6, 143, 2022).
+peca(1585, summer_dress, skirt, plain, 18_24, all, 279, 3.0, 130, 2022).
+peca(1586, blouse, shorts, plain, 35_45, all, 452, 3.8, 102, 2022).
+peca(1587, summer_dress, dress, plain, 35_45, all, 98, 3.7, 241, 2022).
+peca(1588, heels, shoes, floral, 25_35, autumn, 486, 3.6, 244, 2022).
+peca(1589, biker_jacket, blouse, geometric, 18_24, spring, 214, 3.4, 247, 2022).
+peca(1590, summer_dress, shorts, plain, 25_35, autumn, 255, 4.6, 239, 2022).
+peca(1591, casual_jeans, jeans, plain, 35_45, all, 181, 4.6, 84, 2022).
+peca(1592, casual_jeans, skirt, geometric, 18_24, summer, 402, 3.8, 69, 2022).
+peca(1593, wool_jacket, shoes, geometric, 25_35, autumn, 266, 3.2, 137, 2022).
+peca(1594, wool_jacket, dress, floral, 25_35, autumn, 375, 4.3, 184, 2022).
+peca(1595, casual_jeans, jeans, geometric, 35_45, spring, 381, 3.6, 221, 2022).
+peca(1596, beach_shirt, shorts, plain, 35_45, winter, 245, 3.9, 138, 2022).
+peca(1597, chino_shorts, blouse, plain, 25_35, autumn, 370, 3.5, 124, 2022).
+peca(1598, casual_jeans, jeans, geometric, 25_35, autumn, 81, 4.4, 239, 2022).
+peca(1599, heels, jacket, polka_dots, 25_35, autumn, 361, 4.1, 128, 2022).
+peca(1600, heels, shorts, geometric, 25_35, summer, 200, 3.7, 98, 2022).
+peca(1601, blouse, skirt, plain, 25_35, autumn, 77, 3.3, 168, 2022).
+peca(1602, business_shirt, jeans, geometric, 35_45, all, 428, 4.6, 173, 2022).
+peca(1603, blouse, shirt, plain, 35_45, winter, 344, 4.8, 131, 2022).
+peca(1604, blouse, shorts, geometric, 25_35, spring, 221, 4.9, 197, 2022).
+peca(1605, wool_jacket, jacket, plain, 35_45, winter, 303, 4.1, 169, 2022).
+peca(1606, pattern_skirt, blouse, plain, 35_45, all, 159, 4.4, 174, 2022).
+peca(1607, wool_jacket, blouse, plain, 35_45, autumn, 394, 3.1, 122, 2022).
+peca(1608, blouse, dress, plain, 18_24, spring, 427, 4.5, 63, 2022).
+peca(1609, pattern_skirt, shorts, polka_dots, 25_35, winter, 239, 4.1, 85, 2022).
+peca(1610, chino_shorts, jacket, polka_dots, 25_35, winter, 59, 4.3, 73, 2022).
+peca(1611, beach_shirt, shoes, plain, 35_45, spring, 59, 4.5, 215, 2022).
+peca(1612, biker_jacket, shirt, polka_dots, 18_24, spring, 193, 3.7, 74, 2022).
+peca(1613, beach_shirt, skirt, geometric, 35_45, all, 112, 3.1, 92, 2022).
+peca(1614, pattern_skirt, jeans, polka_dots, 35_45, summer, 371, 4.6, 116, 2022).
+peca(1615, wool_jacket, shirt, plain, 35_45, all, 53, 3.9, 217, 2022).
+peca(1616, biker_jacket, skirt, plain, 18_24, summer, 286, 3.0, 96, 2022).
+peca(1617, blouse, shoes, geometric, 35_45, all, 331, 4.5, 233, 2022).
+peca(1618, blouse, jeans, polka_dots, 18_24, autumn, 353, 3.5, 212, 2022).
+peca(1619, business_shirt, shorts, plain, 25_35, winter, 333, 3.4, 234, 2022).
+peca(1620, beach_shirt, jeans, polka_dots, 35_45, winter, 86, 3.8, 54, 2022).
+peca(1621, chino_shorts, dress, geometric, 25_35, winter, 347, 3.2, 58, 2022).
+peca(1622, business_shirt, dress, plain, 25_35, summer, 146, 3.2, 62, 2022).
+peca(1623, summer_dress, skirt, polka_dots, 18_24, winter, 172, 4.6, 154, 2022).
+peca(1624, wool_jacket, jeans, polka_dots, 35_45, spring, 259, 4.3, 231, 2022).
+peca(1625, summer_dress, shoes, plain, 18_24, spring, 155, 3.8, 194, 2022).
+peca(1626, casual_jeans, jeans, polka_dots, 25_35, spring, 303, 4.0, 68, 2022).
+peca(1627, chino_shorts, skirt, geometric, 18_24, autumn, 70, 4.3, 65, 2022).
+peca(1628, wool_jacket, jacket, plain, 25_35, spring, 491, 4.3, 80, 2022).
+peca(1629, business_shirt, blouse, striped, 35_45, autumn, 308, 3.0, 169, 2022).
+peca(1630, chino_shorts, skirt, striped, 25_35, summer, 435, 4.0, 81, 2022).
+peca(1631, heels, blouse, striped, 18_24, spring, 340, 4.5, 136, 2022).
+peca(1632, summer_dress, jacket, striped, 25_35, summer, 122, 4.7, 186, 2022).
+peca(1633, beach_shirt, jeans, striped, 25_35, winter, 313, 3.7, 99, 2022).
+peca(1634, wool_jacket, shorts, plain, 25_35, spring, 105, 4.2, 153, 2022).
+peca(1635, pattern_skirt, skirt, plain, 35_45, summer, 65, 4.9, 161, 2022).
+peca(1636, blouse, shirt, plain, 25_35, all, 218, 3.7, 242, 2022).
+peca(1637, casual_jeans, jacket, striped, 35_45, spring, 472, 4.1, 162, 2022).
+peca(1638, wool_jacket, shirt, striped, 25_35, winter, 145, 3.5, 98, 2022).
+peca(1639, beach_shirt, skirt, polka_dots, 25_35, autumn, 190, 3.3, 108, 2022).
+peca(1640, casual_jeans, jeans, plain, 35_45, all, 471, 3.7, 126, 2022).
+peca(1641, business_shirt, shoes, polka_dots, 25_35, autumn, 412, 3.6, 72, 2022).
+peca(1642, biker_jacket, jacket, geometric, 25_35, winter, 256, 3.3, 186, 2022).
+peca(1643, biker_jacket, shorts, plain, 25_35, winter, 233, 4.4, 55, 2022).
+peca(1644, pattern_skirt, jeans, geometric, 18_24, spring, 418, 3.7, 70, 2022).
+peca(1645, beach_shirt, skirt, polka_dots, 25_35, all, 203, 4.8, 215, 2022).
+peca(1646, wool_jacket, jacket, polka_dots, 35_45, spring, 434, 3.2, 178, 2022).
+peca(1647, chino_shorts, shirt, geometric, 35_45, summer, 88, 4.5, 114, 2022).
+peca(1648, blouse, skirt, geometric, 25_35, summer, 144, 3.2, 51, 2022).
+peca(1649, blouse, jeans, plain, 18_24, all, 321, 3.1, 150, 2022).
+peca(1650, blouse, jeans, geometric, 35_45, spring, 482, 5.0, 177, 2022).
+peca(1651, business_shirt, shirt, geometric, 25_35, all, 338, 3.5, 237, 2022).
+peca(1652, heels, shoes, polka_dots, 18_24, all, 431, 3.6, 196, 2022).
+peca(1653, beach_shirt, shirt, plain, 35_45, summer, 252, 4.4, 171, 2022).
+peca(1654, heels, jeans, geometric, 18_24, summer, 467, 4.2, 248, 2022).
+peca(1655, biker_jacket, blouse, geometric, 25_35, spring, 176, 3.8, 103, 2022).
+peca(1656, wool_jacket, jacket, geometric, 25_35, summer, 328, 5.0, 127, 2022).
+peca(1657, summer_dress, dress, plain, 18_24, winter, 200, 4.7, 86, 2022).
+peca(1658, blouse, shoes, geometric, 35_45, autumn, 478, 4.0, 111, 2022).
+peca(1659, biker_jacket, shirt, polka_dots, 18_24, winter, 125, 4.8, 127, 2022).
+peca(1660, casual_jeans, shirt, geometric, 25_35, spring, 215, 3.6, 205, 2022).
